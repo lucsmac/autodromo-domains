@@ -1,0 +1,417 @@
+[
+  {
+    "name": "Sorana Blindados VW",
+    "domain": "blindados.sorana.com.br",
+    "internal_link": "sorana-veiculos.autodromo.app/sorana-blindados"
+  },
+  {
+    "name": "Miami Imports pronta entrega",
+    "domain": "pronta-entrega.miamiimports.com.br",
+    "internal_link": "miami-imports.autodromo.app/miami-imports"
+  },
+  {
+    "name": "Plus Car",
+    "domain": "pluscarveiculos.com.br",
+    "internal_link": "pluscar.autodromo.app/plus-car"
+  },
+  {
+    "name": "Via Auto Shopping",
+    "domain": "viaautoshopping.com.br",
+    "internal_link": "viaautoshopping.autodromo.app/via-auto-seminovos"
+  },
+  {
+    "name": "AutoPilot - Portal de Seminovos (NÃO ALTERE)",
+    "domain": "",
+    "internal_link": "autoforce-academy.autodromo.app/autopilot-portal-de-seminovos"
+  },
+  {
+    "name": "Seminovos Dahruj Rent a Car",
+    "domain": "seminovos.dahrujrentacar.com.br",
+    "internal_link": "jeep-dahruj.autodromo.app/seminovos-dahruj-rent-a-car"
+  },
+  {
+    "name": "Kantam Seminovos",
+    "domain": "",
+    "internal_link": "kantamveiculos.autodromo.app/kantam-seminovos"
+  },
+  {
+    "name": "Grupo Mira",
+    "domain": "www.miramultimarcas.com.br",
+    "internal_link": "miramotors.autodromo.app/mira-multimarcas"
+  },
+  {
+    "name": "Seminovos Carmais",
+    "domain": "carmaisseminovos.com.br",
+    "internal_link": "carmais.autodromo.app/seminovos-carmais"
+  },
+  {
+    "name": "Liz Seminovos",
+    "domain": "",
+    "internal_link": "testes.autodromo.app/liz-seminovos"
+  },
+  {
+    "name": "Grupo Leauto Seminovos",
+    "domain": "seminovos.grupoleauto.com.br",
+    "internal_link": "grupoleauto.autodromo.app/leauto-seminovos"
+  },
+  {
+    "name": "Godrive Seminovos",
+    "domain": "www.godriveseminovos.com.br",
+    "internal_link": "kuruma.autodromo.app/godrive-seminovos"
+  },
+  {
+    "name": "Portal Seminovos - Genius",
+    "domain": "",
+    "internal_link": "autoforce-academy.autodromo.app/portal-seminovos-genius"
+  },
+  {
+    "name": "TOP MOTOS",
+    "domain": "topmotosbauru.com.br",
+    "internal_link": "topmotosbauru.autodromo.app/top-motos"
+  },
+  {
+    "name": "Procurando Meu Carro ",
+    "domain": "procurandomeucarro.com.br",
+    "internal_link": "procurando-meu-carro.autodromo.app/procurando-meu-carro"
+  },
+  {
+    "name": "PG Prime Selection",
+    "domain": "pgprimeselection.com",
+    "internal_link": "pgprime.autodromo.app/pg-prime-selection"
+  },
+  {
+    "name": "Via Itália",
+    "domain": "viaitalia.com.br",
+    "internal_link": "viaitalia.autodromo.app/via-italia"
+  },
+  {
+    "name": "GrupoTesteJunior",
+    "domain": "testeee.testeracers.com.br/",
+    "internal_link": "autoforce-academy.autodromo.app/grupotestejunior"
+  },
+  {
+    "name": "Ellure Seguros",
+    "domain": "ellureseguros.com.br",
+    "internal_link": "grupo-provence.autodromo.app/ellure-seguros-551d79b9-e94d-404c-8726-5f87f4416c21"
+  },
+  {
+    "name": "Portal de Seminovos",
+    "domain": "www.mobimarcas.com.br/",
+    "internal_link": "mobimarcas.autodromo.app/portal-de-seminovos"
+  },
+  {
+    "name": "Vitória Motors - BYD Seminovos",
+    "domain": "seminovosvitoriamotorsbyd.com.br",
+    "internal_link": "kuruma.autodromo.app/vitoria-motors-byd-seminovos"
+  },
+  {
+    "name": "Osaka Seminovos",
+    "domain": "www.osakaseminovos.com.br",
+    "internal_link": "kuruma.autodromo.app/osaka"
+  },
+  {
+    "name": "Potencial veículos",
+    "domain": "www.potencialveiculosms.com.br",
+    "internal_link": "turquesa-digital.autodromo.app/potencial-veiculos"
+  },
+  {
+    "name": "Dolor Amet",
+    "domain": "",
+    "internal_link": "autoforce-academy.autodromo.app/dolor-amet"
+  },
+  {
+    "name": "SeuCarro ",
+    "domain": "seucarro.com.br",
+    "internal_link": "grupo-green.autodromo.app/seucarro"
+  },
+  {
+    "name": "Ulsan Seminovos Vilhena",
+    "domain": "",
+    "internal_link": "testes.autodromo.app/ulsan-seminovos-vilhena"
+  },
+  {
+    "name": "F.LAPENNA MOTORS",
+    "domain": "flapenna.com.br",
+    "internal_link": "sempremaisveiculos.autodromo.app/flapenna"
+  },
+  {
+    "name": "Geração Seminovos",
+    "domain": "www.geracaoseminovos.com.br",
+    "internal_link": "grupo-geracao.autodromo.app/geracao-seminovos"
+  },
+  {
+    "name": "Sorana Blindados Audi",
+    "domain": "blindadosseminovospremium.soranaaudi.com.br",
+    "internal_link": "sorana-veiculos.autodromo.app/sorana-blindados-audi"
+  },
+  {
+    "name": "Murano Seminovos ",
+    "domain": "muranoveiculos.com.br",
+    "internal_link": "murano-fiat.autodromo.app/murano-seminovos"
+  },
+  {
+    "name": "Redenção Seminovos",
+    "domain": "redencaoseminovos.com.br",
+    "internal_link": "redencao.autodromo.app/portal-redencao-seminovos"
+  },
+  {
+    "name": "OutletKar",
+    "domain": "www.outletkar.com.br",
+    "internal_link": "viamar.autodromo.app/grupo-viamar-seminovos"
+  },
+  {
+    "name": "Geração Motos Multimarcas",
+    "domain": "geracaomotosseminovas.com.br",
+    "internal_link": "grupo-geracao.autodromo.app/geracao-motos-multimarcas"
+  },
+  {
+    "name": "Ene Seguros ",
+    "domain": "eneseguros.com.br",
+    "internal_link": "grupo_np_veiculos.autodromo.app/portal-de-seguros"
+  },
+  {
+    "name": "Grupo Teste Portal de Seminovos",
+    "domain": "portal-seminovos-teste",
+    "internal_link": "testes.autodromo.app/grupo-teste-portal-de-seminovos"
+  },
+  {
+    "name": "E-deal",
+    "domain": "portalseminovos.com.br",
+    "internal_link": "testes.autodromo.app/expandirseminovos"
+  },
+  {
+    "name": "Arrais veículos",
+    "domain": "arraisveiculos.com.br",
+    "internal_link": "arraisveiculos.autodromo.app/arrais-veiculos"
+  },
+  {
+    "name": "Kyoto seminovos",
+    "domain": "www.kyotoseminovos.com.br",
+    "internal_link": "kuruma.autodromo.app/kyotoe-seminovos"
+  },
+  {
+    "name": "Ômega Veículos",
+    "domain": "omegaveiculos.com.br",
+    "internal_link": "omega-veiculos.autodromo.app/omega-veiculos"
+  },
+  {
+    "name": "Marina Repasses ",
+    "domain": "marinarepasses.com.br",
+    "internal_link": "fiat_marina.autodromo.app/marina-repasses-489ff2a4-9d41-42c8-86fc-c16dc5d31b36"
+  },
+  {
+    "name": "Quality ",
+    "domain": "qualityseminovos.com.br",
+    "internal_link": "quality-frotas.autodromo.app/quality-seminovos"
+  },
+  {
+    "name": "Quality Repasse",
+    "domain": "qualityrepasse.com.br",
+    "internal_link": "quality-frotas.autodromo.app/quality-repasse"
+  },
+  {
+    "name": "Seminovos Marajó",
+    "domain": "",
+    "internal_link": "marajo.autodromo.app/seminovos-marajo-493a7d32-4315-4554-91d1-6f68d83a860c"
+  },
+  {
+    "name": "PORTALTESTE",
+    "domain": "www.porteste.com.br",
+    "internal_link": "testes.autodromo.app/portalteste"
+  },
+  {
+    "name": "Tchoy Motors",
+    "domain": "tchoymotors.com.br",
+    "internal_link": "tchoymotors.autodromo.app/tchoy-motors-f425fa81-6585-4bf2-b9e8-495b296ad71d"
+  },
+  {
+    "name": "Autoforce - Polivalor",
+    "domain": "polivalor.com.br",
+    "internal_link": "autoforce-polivalor.autodromo.app/autoforce-polivalor-seminovos"
+  },
+  {
+    "name": "Autoforce - Piloto",
+    "domain": "piloto.com",
+    "internal_link": "autoforce-piloto.autodromo.app/autoforce-piloto"
+  },
+  {
+    "name": "Arrais Locker",
+    "domain": "www.arraislocker.com.br",
+    "internal_link": "arraisveiculos.autodromo.app/arrais-locker"
+  },
+  {
+    "name": "Discautol semi novos",
+    "domain": "seminovos.discautol.com.br",
+    "internal_link": "discautol.autodromo.app/discautol-semi-novos"
+  },
+  {
+    "name": "Teste racres seminovos ",
+    "domain": "seminovosracers.com",
+    "internal_link": "testes.autodromo.app/teste-racres-seminovos"
+  },
+  {
+    "name": "Novo portal de seminovos",
+    "domain": "novoportaldeseminovos.com",
+    "internal_link": "testes.autodromo.app/novo-portal-de-seminovos"
+  },
+  {
+    "name": "Via Italia",
+    "domain": "",
+    "internal_link": "testes.autodromo.app/via-italia"
+  },
+  {
+    "name": "Showroom Mercedes-benz",
+    "domain": "showroommercedes.com.br",
+    "internal_link": "testes.autodromo.app/portal-mercedes"
+  },
+  {
+    "name": "Valence Motos Seminovas",
+    "domain": "www.valencemotosseminovas.com.br",
+    "internal_link": "valence.autodromo.app/valence-motos-seminovas"
+  },
+  {
+    "name": "Kurumá seminovos",
+    "domain": "www.kurumaseminovos.com.br",
+    "internal_link": "kuruma.autodromo.app/kuruma-seminovos"
+  },
+  {
+    "name": "Auto Ônibus",
+    "domain": "www.autoonibus.com.br",
+    "internal_link": "auto-onibus.autodromo.app/auto-onibus-92ef441b-62f4-4e8e-8665-d65887e56883"
+  },
+  {
+    "name": "Rodobens Seminovos",
+    "domain": "seminovos.rodobens.com.br",
+    "internal_link": "rodobens.autodromo.app/rodobens-seminovos"
+  },
+  {
+    "name": "Portal de campanha ",
+    "domain": "posvendasviamondo.com.br",
+    "internal_link": "testes.autodromo.app/portal-de-campanha"
+  },
+  {
+    "name": "Carros Peugeot",
+    "domain": "carrospeugeot.com.br",
+    "internal_link": "autoforce-academy.autodromo.app/carros-peugeot"
+  },
+  {
+    "name": "Carflip",
+    "domain": "www.carflip.com.br",
+    "internal_link": "conta-carflip.autodromo.app/carflip"
+  },
+  {
+    "name": "AGO Seminovos",
+    "domain": "ago.com.br/ago-seminovos/",
+    "internal_link": "grupo-ago.autodromo.app/ago-seminovos"
+  },
+  {
+    "name": "Vega Seminovos",
+    "domain": "www.vegaseminovos.com.br",
+    "internal_link": "grupo-vega.autodromo.app/vega-seminovos"
+  },
+  {
+    "name": "Grupo Automix",
+    "domain": "www.portalautomix.com.br",
+    "internal_link": "grupo-automix.autodromo.app/grupo-automix"
+  },
+  {
+    "name": "Cordial Premium",
+    "domain": "cordialpremium.com.br",
+    "internal_link": "grupo-cordial.autodromo.app/grupo-cordial-www-autodromo-app-cordial-premium"
+  },
+  {
+    "name": "Seminovos Grupo AutoShow",
+    "domain": "www.rivelseminovos.com.br",
+    "internal_link": "fiat-rivel.autodromo.app/seminovos-grupo-show"
+  },
+  {
+    "name": "Teste arrais",
+    "domain": "",
+    "internal_link": "autoforce-academy.autodromo.app/teste-arrais"
+  },
+  {
+    "name": "Portal de Seminovos - Feira Motors - João",
+    "domain": "",
+    "internal_link": "autoforce-academy.autodromo.app/portal-de-seminovos-feira-motors-joao"
+  },
+  {
+    "name": "Grandourados Veiculos",
+    "domain": "veiculos.grandourados.com.br",
+    "internal_link": "grupo-grandourados.autodromo.app/grandourados-seminovos"
+  },
+  {
+    "name": "Portal de seminovos Treinamento",
+    "domain": "seminovos.treinamento.com",
+    "internal_link": "testes-cuidar.autodromo.app/portal-de-seminovos-treinamento"
+  },
+  {
+    "name": "Seminovos",
+    "domain": "via1seminovos.com.br",
+    "internal_link": "viasul.autodromo.app/seminovos-via1"
+  },
+  {
+    "name": "Cresauto Seminovos",
+    "domain": "cresautoseminovos.com.br",
+    "internal_link": "cresauto.autodromo.app/cresauto-seminovos"
+  },
+  {
+    "name": "SeuCarro",
+    "domain": "",
+    "internal_link": "seucarro.autodromo.app/seucarro"
+  },
+  {
+    "name": "Mazzutti Seminovos",
+    "domain": "",
+    "internal_link": "mazzutti.autodromo.app/mazzutti-seminovos"
+  },
+  {
+    "name": "Auto Regional",
+    "domain": "",
+    "internal_link": "auto-regional.autodromo.app/auto-regional"
+  },
+  {
+    "name": "Valence Seminovos",
+    "domain": "www.valenceseminovos.com.br",
+    "internal_link": "valence.autodromo.app/valence-seminovos"
+  },
+  {
+    "name": "AutoMaia Veículos",
+    "domain": "www.automaiaveiculos.com.br",
+    "internal_link": "automaia-veiculos.autodromo.app/automaia-veiculos"
+  },
+  {
+    "name": "Euro Motors Seminovos",
+    "domain": "euromotorsseminovos.com.br",
+    "internal_link": "grupojcmattias.autodromo.app/euromotors-seminovos"
+  },
+  {
+    "name": "Sorana Seminovos",
+    "domain": "seminovos.sorana.com.br",
+    "internal_link": "sorana-veiculos.autodromo.app/sorana-seminovos"
+  },
+  {
+    "name": "Sempre Mais Veículos",
+    "domain": "sempremaisveiculos.com.br",
+    "internal_link": "sempremaisveiculos.autodromo.app/sempre-mais-veiculos"
+  },
+  {
+    "name": "Colorado Concept",
+    "domain": "www.coloradoconcept.com.br",
+    "internal_link": "colorado-concept.autodromo.app/colorado-concept-seminovos"
+  },
+  {
+    "name": "Grupo Viasul Virtual",
+    "domain": "",
+    "internal_link": "viasul-ofertas.autodromo.app/viasul-ofertas"
+  },
+  {
+    "name": "Grupo Viasul",
+    "domain": "",
+    "internal_link": "viasul-ofertas.autodromo.app/grupo-viasul"
+  },
+  {
+    "name": "Seminovos Cometa",
+    "domain": "cometaseminovos.com.br",
+    "internal_link": "grupocometa.autodromo.app/seminovos-cometa"
+  }
+]

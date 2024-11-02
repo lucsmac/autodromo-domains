@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Layout JEEP",
+    "domain": "",
+    "internal_link": "automacao.autodromo.app/layout-jeep"
+  },
+  {
+    "name": "Jeep May Teste",
+    "domain": "jeepmay-teste.com",
+    "internal_link": "autoforce-academy.autodromo.app/jeep-may"
+  },
+  {
+    "name": "SITE JEEP Débora Teste",
+    "domain": "jeep.debora.teste",
+    "internal_link": "autoforce-academy.autodromo.app/site-jeep-debora-teste"
+  },
+  {
+    "name": "Jeep - Ilu",
+    "domain": "jeepilu",
+    "internal_link": "testes-cuidar.autodromo.app/jeep-ilu"
+  },
+  {
+    "name": "[DDM] Jeep Black - Testes",
+    "domain": "jeepddmtestes.com.br",
+    "internal_link": "testes-cuidar.autodromo.app/ddm-jeep-black-testes"
+  },
+  {
+    "name": "Jeep - Jana",
+    "domain": "testejanajeep.com",
+    "internal_link": "testes-cuidar.autodromo.app/teste-janaina-jeep"
+  },
+  {
+    "name": "Itália Master",
+    "domain": "italiamasterjeep.com.br",
+    "internal_link": "euroamericas.autodromo.app/italia-master"
+  }
+]

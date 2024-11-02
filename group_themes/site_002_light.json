@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Satte Alam Consórcio",
+    "domain": "",
+    "internal_link": "testes.autodromo.app/satte-alam-consorcio"
+  },
+  {
+    "name": "Enzo",
+    "domain": "",
+    "internal_link": "grupoenzo.autodromo.app/enzo"
+  },
+  {
+    "name": "Grand Brasil",
+    "domain": "www.grandbrasil.com.br/consorcio",
+    "internal_link": "grandbrasil.autodromo.app/consorcio-grand-brasil"
+  },
+  {
+    "name": "Consórcio Nacional Vime",
+    "domain": "consorciovime.com.br",
+    "internal_link": "grupo-vime.autodromo.app/consorcio-vime"
+  },
+  {
+    "name": "teste de protal",
+    "domain": "testeportal.com.br",
+    "internal_link": "modelo.autodromo.app/teste-de-protal"
+  },
+  {
+    "name": "Euroville Go (Layout Antigo)",
+    "domain": "",
+    "internal_link": "euroville.autodromo.app/euroville-go-portal-antigo"
+  },
+  {
+    "name": "Globo Consórcios",
+    "domain": "globoconsorcio.com",
+    "internal_link": "globo-consorcios.autodromo.app/globo-consorcios"
+  },
+  {
+    "name": "interlagos002",
+    "domain": "",
+    "internal_link": "modelo.autodromo.app/interlagos002"
+  },
+  {
+    "name": "[Expandir] Portal de Seminovos",
+    "domain": "expandirseminovos.com.br",
+    "internal_link": "testes.autodromo.app/expandir-portal-de-seminovos"
+  },
+  {
+    "name": "TESTE PORTAL DE CONSÓRCIO MAYARA",
+    "domain": "TESTECONSORCIO.COM",
+    "internal_link": "testes.autodromo.app/teste-portal-de-consorcio-mayara"
+  },
+  {
+    "name": "Abrão Reze Consórcios",
+    "domain": "www.consabrao.com.br",
+    "internal_link": "grupoabraoreze.autodromo.app/abrao-reze-consorcios"
+  },
+  {
+    "name": "Grupo Via 1",
+    "domain": "via1consorcios.com.br",
+    "internal_link": "viasul.autodromo.app/consorcios-viasul"
+  },
+  {
+    "name": "ghost site",
+    "domain": "ghost_site",
+    "internal_link": ".autodromo.app/ghost-site"
+  }
+]

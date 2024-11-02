@@ -1,0 +1,382 @@
+[
+  {
+    "name": "Fiat Original Maranhão",
+    "domain": "www.fiatoriginal.com.br/fiat-maranhao",
+    "internal_link": "grupo-green.autodromo.app/fiat-maranhao"
+  },
+  {
+    "name": "CVP Fiat",
+    "domain": "cvpveiculos.com.br",
+    "internal_link": "cvpfiat.autodromo.app/cvp-fiat"
+  },
+  {
+    "name": "Iguauto Fiat",
+    "domain": "www.fiatiguauto.com.br",
+    "internal_link": "fiatiguauto.autodromo.app/iguauto-fiat"
+  },
+  {
+    "name": "Fiat Domani",
+    "domain": "domanifiat.com.br",
+    "internal_link": "grupodomani.autodromo.app/fiat-domani"
+  },
+  {
+    "name": "Fiat Rivel",
+    "domain": "www.fiatrivel.com",
+    "internal_link": "fiat-rivel.autodromo.app/fiat-rivel"
+  },
+  {
+    "name": "Fiat Marajó",
+    "domain": "www.fiatmarajo.com.br",
+    "internal_link": "marajo.autodromo.app/fiat-marajo"
+  },
+  {
+    "name": "Teste Fiat",
+    "domain": "fiatleticia.com.br",
+    "internal_link": "teste-leticia.autodromo.app/teste-fiat"
+  },
+  {
+    "name": "Vime Veículos",
+    "domain": "vimeveiculos.com.br",
+    "internal_link": "grupo-vime.autodromo.app/sp"
+  },
+  {
+    "name": "Setup Teste - Paulo",
+    "domain": "",
+    "internal_link": "autoforce-academy.autodromo.app/site-teste-paulo"
+  },
+  {
+    "name": "Navelli Fiat",
+    "domain": "navellifiat.com.br",
+    "internal_link": "navelli-fiat.autodromo.app/navelli-fiat"
+  },
+  {
+    "name": "Fiat MVC",
+    "domain": "fiatmvc.com.br",
+    "internal_link": "fiat-mvc.autodromo.app/fiat-mvc"
+  },
+  {
+    "name": "Dealer Fiat",
+    "domain": "atpfiat.com.br",
+    "internal_link": "autopilot.autodromo.app/dealer-fiat"
+  },
+  {
+    "name": "Fiat Grandourados",
+    "domain": "www.fiat.grandourados.com.br",
+    "internal_link": "grupo-grandourados.autodromo.app/grandourados-fiat"
+  },
+  {
+    "name": "Minauto",
+    "domain": "minautofiat.com.br",
+    "internal_link": "minauto-fiat.autodromo.app/minauto"
+  },
+  {
+    "name": "Carboni ",
+    "domain": "www.carbonifiat.com.br",
+    "internal_link": "carboni.autodromo.app/carboni-fiat"
+  },
+  {
+    "name": "Fiat Soma",
+    "domain": "www.fiatsoma.com.br",
+    "internal_link": "soma-veiculos.autodromo.app/fiat-soma"
+  },
+  {
+    "name": "Fiat Deva",
+    "domain": "devafiat.com.br",
+    "internal_link": "gruposada.autodromo.app/fiat-deva"
+  },
+  {
+    "name": "Fiat Original São Paulo",
+    "domain": "www.fiatoriginal.com.br/fiat-sao-paulo",
+    "internal_link": "grupo-green.autodromo.app/fiat-sao-paulo"
+  },
+  {
+    "name": "Tropical Fiat",
+    "domain": "www.tropicalfiat.com.br",
+    "internal_link": "tropicalfiat.autodromo.app/tropical-fiat"
+  },
+  {
+    "name": "FIAT Autoeste",
+    "domain": "www.autoestefiat.com.br",
+    "internal_link": "grupo-farias.autodromo.app/fiat-autoeste"
+  },
+  {
+    "name": "Fiat Cami",
+    "domain": "site.fiatcami.com",
+    "internal_link": "testes-cuidar.autodromo.app/fiat-cami"
+  },
+  {
+    "name": "Brione ",
+    "domain": "www.brione.com.br",
+    "internal_link": "brionejeep.autodromo.app/brione-fiat"
+  },
+  {
+    "name": "Nocarvel Fiat",
+    "domain": "nocarvelfiat.com.br",
+    "internal_link": "fiat-nocarvel.autodromo.app/nocarvel-fiat"
+  },
+  {
+    "name": "SITE TESTE FIAT 333",
+    "domain": "",
+    "internal_link": "testes.autodromo.app/site-teste-fiat-333"
+  },
+  {
+    "name": "Autovia",
+    "domain": "autoviafiat.com.br",
+    "internal_link": "autovia-fiat.autodromo.app/autovia-fiat"
+  },
+  {
+    "name": "Ottima Fiat",
+    "domain": "ottimafiat.com.br",
+    "internal_link": "ottima-fiat.autodromo.app/ottima-fiat"
+  },
+  {
+    "name": "Venture Fiat",
+    "domain": "www.venturefiat.com.br",
+    "internal_link": "venturefiat.autodromo.app/venture-fiat"
+  },
+  {
+    "name": "Fiat Disvesa",
+    "domain": "disvesa.com.br",
+    "internal_link": "fiat-disvesa.autodromo.app/fiat-disvesa"
+  },
+  {
+    "name": "Vime Veículos Minas Gerais",
+    "domain": "mg.vimeveiculos.com.br",
+    "internal_link": "grupo-vime.autodromo.app/mg"
+  },
+  {
+    "name": "Maxicar Fiat Mafra",
+    "domain": "www.maxicarfiat.com.br",
+    "internal_link": "fiat-rivel.autodromo.app/maxicar-fiat"
+  },
+  {
+    "name": "Ceolin Fiat",
+    "domain": "ceolinfiat.com.br",
+    "internal_link": "ceolin-jeep.autodromo.app/ceolin-fiat"
+  },
+  {
+    "name": "Destaque FIAT",
+    "domain": "www.destaquefiat.com.br",
+    "internal_link": "destaque.autodromo.app/destaque-fiat"
+  },
+  {
+    "name": "Fiat Sala",
+    "domain": "fiatsala.com.br",
+    "internal_link": "fiat-sala.autodromo.app/fiat-sala"
+  },
+  {
+    "name": "Fiat NossaTerra",
+    "domain": "fiatnossaterra.com.br",
+    "internal_link": "grupo-boaterra.autodromo.app/fiat-nossaterra"
+  },
+  {
+    "name": "Plataforma - Fiat",
+    "domain": "www.pltfiat.com.br",
+    "internal_link": "autoforce-academy.autodromo.app/plataforma-fiat"
+  },
+  {
+    "name": "Alpinia Fiat",
+    "domain": "fiatalpinia.com.br",
+    "internal_link": "alpinia-fiat.autodromo.app/alpinia-fiat-sp"
+  },
+  {
+    "name": "Carvel Fiat",
+    "domain": "www.carvel.com.br",
+    "internal_link": "fiatcarvel.autodromo.app/carvel-fiat"
+  },
+  {
+    "name": "Pinauto Fiat",
+    "domain": "pinautofiat.com.br",
+    "internal_link": "pinauto-seminovos.autodromo.app/pinauto-fiat"
+  },
+  {
+    "name": "Fiat Duna",
+    "domain": "www.fiatduna.com.br",
+    "internal_link": "duna.autodromo.app/fiat-duna-novos"
+  },
+  {
+    "name": "Fiat Ventuno",
+    "domain": "ventuno.com.br",
+    "internal_link": "jeep-dahruj.autodromo.app/fiat-ventuno"
+  },
+  {
+    "name": "Ideal Fiat",
+    "domain": "idealfiat.com.br",
+    "internal_link": "ideal-fiat.autodromo.app/ideal-fiat"
+  },
+  {
+    "name": "Cevema Fiat",
+    "domain": "cevemafiat.com.br",
+    "internal_link": "cevema.autodromo.app/cevema-fiat"
+  },
+  {
+    "name": "Dinauto Veículos",
+    "domain": "dinautofiat.com.br",
+    "internal_link": "dinauto.autodromo.app/dinauto-veiculos"
+  },
+  {
+    "name": "Fiat Copauto",
+    "domain": "www.fiatcopauto.com.br",
+    "internal_link": "fiat-copauto.autodromo.app/fiat-copauto"
+  },
+  {
+    "name": "Total Fiat",
+    "domain": "totalfiat.com.br",
+    "internal_link": "grupo-total.autodromo.app/total-fiat"
+  },
+  {
+    "name": "Fiat Zucavel",
+    "domain": "fiatzucavel.com.br",
+    "internal_link": "zucatelli.autodromo.app/fiat-zucavel"
+  },
+  {
+    "name": "Murano Fiat",
+    "domain": "fiatmurano.com.br",
+    "internal_link": "murano-fiat.autodromo.app/murano-fiat"
+  },
+  {
+    "name": "Andreta Fiat",
+    "domain": "andretafiat.com.br",
+    "internal_link": "andretafiat.autodromo.app/andreta-fiat"
+  },
+  {
+    "name": "Bari Fiat",
+    "domain": "fiatbari.com.br",
+    "internal_link": "bari.autodromo.app/bari-fiat"
+  },
+  {
+    "name": "Jelta",
+    "domain": "jeltaveiculos.com.br",
+    "internal_link": "jelta.autodromo.app/jelta"
+  },
+  {
+    "name": "Mônaco Veículos - Centro-Oeste",
+    "domain": "centrooeste.monacofiat.com.br",
+    "internal_link": "grupo-monaco.autodromo.app/monaco-fiat-co"
+  },
+  {
+    "name": "FIAT Caminho",
+    "domain": "fiatcaminho.com.br",
+    "internal_link": "caminho.autodromo.app/fiat-caminho"
+  },
+  {
+    "name": "Florença",
+    "domain": "www.florenca.com.br",
+    "internal_link": "florenca.autodromo.app/fiat-florenca"
+  },
+  {
+    "name": "Fiat Ascia",
+    "domain": "www.asciafiat.com.br",
+    "internal_link": "fiat-ascia.autodromo.app/fiat-ascia"
+  },
+  {
+    "name": "[DDM] Fiat 3.0 - Teste",
+    "domain": "",
+    "internal_link": "testes-cuidar.autodromo.app/ddm-fiat-3-0-teste"
+  },
+  {
+    "name": "Fiat Confialle - Taquaritinga",
+    "domain": "taquaritinga.fiatconfialle.com.br",
+    "internal_link": "fiat-confialle.autodromo.app/fiat-confialle-taquaritinga"
+  },
+  {
+    "name": "Fipal Fiat",
+    "domain": "fipalfiat.com.br",
+    "internal_link": "fipal.autodromo.app/fipal-fiat"
+  },
+  {
+    "name": "Via Mondo Fiat",
+    "domain": "www.viamondofiat.com.br",
+    "internal_link": "viamondo.autodromo.app/fiat-via-mondo"
+  },
+  {
+    "name": "Mônaco Veículos - Norte",
+    "domain": "norte.monacofiat.com.br",
+    "internal_link": "grupo-monaco.autodromo.app/monaco-fiat"
+  },
+  {
+    "name": "FIAT Pontanegra",
+    "domain": "www.pontanegra.com.br",
+    "internal_link": "grupo-farias.autodromo.app/fiat-pontanegra"
+  },
+  {
+    "name": "Fiat Confialle - Matão",
+    "domain": "matao.fiatconfialle.com.br",
+    "internal_link": "fiat-confialle.autodromo.app/fiat-confialle-matao"
+  },
+  {
+    "name": "Samam Fiat",
+    "domain": "samamfiat.com.br",
+    "internal_link": "grupo-samam.autodromo.app/samam-fiat"
+  },
+  {
+    "name": "Via Marconi Santarém",
+    "domain": "viamarconi.com.br/fiat-pa",
+    "internal_link": "ebd.autodromo.app/fiat-pa"
+  },
+  {
+    "name": "Via Marconi Manaus",
+    "domain": "viamarconi.com.br/fiat-am",
+    "internal_link": "ebd.autodromo.app/fiat-am"
+  },
+  {
+    "name": "Fiat Confialle",
+    "domain": "www.fiatconfialle.com.br",
+    "internal_link": "fiat-confialle.autodromo.app/fiat-confialle-monte-alto"
+  },
+  {
+    "name": "Eurobarra ",
+    "domain": "eurobarrafiat.com.br",
+    "internal_link": "euroamericas.autodromo.app/eurobarra"
+  },
+  {
+    "name": "Via Marconi Avaré",
+    "domain": "viamarconi.com.br/fiat-sp",
+    "internal_link": "ebd.autodromo.app/fiat-sp"
+  },
+  {
+    "name": "Itália Barra Fiat",
+    "domain": "italiabarrafiat.com.br",
+    "internal_link": "euroamericas.autodromo.app/italia-barra-fiat"
+  },
+  {
+    "name": "Viale",
+    "domain": "www.viale.com.br",
+    "internal_link": "ebd.autodromo.app/viale-fiat"
+  },
+  {
+    "name": "Fiat Alpavel",
+    "domain": "fiatalpavel.com.br",
+    "internal_link": "grupoenzo.autodromo.app/fiat-alpavel"
+  },
+  {
+    "name": "Vouga",
+    "domain": "vouga.com.br",
+    "internal_link": "carmais.autodromo.app/vougafiat"
+  },
+  {
+    "name": "Fiat Enzo",
+    "domain": "fiatenzo.com.br",
+    "internal_link": "grupoenzo.autodromo.app/fiatenzo"
+  },
+  {
+    "name": "Atri Araraquara",
+    "domain": "atri.com.br/araraquara",
+    "internal_link": "grupotoniello.autodromo.app/araraquara"
+  },
+  {
+    "name": "Atri Ribeirão",
+    "domain": "atri.com.br/ribeirao",
+    "internal_link": "grupotoniello.autodromo.app/ribeirao"
+  },
+  {
+    "name": "Brilhauto ",
+    "domain": "brilhautofiat.com.br",
+    "internal_link": "euroamericas.autodromo.app/brilhauto"
+  },
+  {
+    "name": "Squadra",
+    "domain": "squadrariofiat.com.br",
+    "internal_link": "euroamericas.autodromo.app/squadra"
+  }
+]

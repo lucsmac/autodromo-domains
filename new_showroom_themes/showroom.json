@@ -1,0 +1,2103 @@
+[
+  {
+    "name": "Autoline Honda",
+    "domain": "autolinehonda.com.br",
+    "internal_link": "autoline.autodromo.app/autoline-honda"
+  },
+  {
+    "name": "Autobel Volkswagen",
+    "domain": "www.autobel.com.br",
+    "internal_link": "autobel.autodromo.app/autobel-volkswagen"
+  },
+  {
+    "name": "Autostar MINI",
+    "domain": "www.mini-autostar.com.br",
+    "internal_link": "grupo-green.autodromo.app/autostar-mini"
+  },
+  {
+    "name": "A.R. Motors Honda",
+    "domain": "www.armotorshonda.com.br",
+    "internal_link": "grupo-green.autodromo.app/a-r-motors-honda"
+  },
+  {
+    "name": "Dahruj Blindados ",
+    "domain": "dahrujblindados.com.br",
+    "internal_link": "jeep-dahruj.autodromo.app/dahruj-blindados"
+  },
+  {
+    "name": "Green Automóveis Citroën",
+    "domain": "www.greenautomoveis.com.br/citroen",
+    "internal_link": "grupo-green.autodromo.app/citroen"
+  },
+  {
+    "name": "T-Line Toyota",
+    "domain": "www.tlinetoyota.com.br",
+    "internal_link": "grupo-tline.autodromo.app/t-line-toyota"
+  },
+  {
+    "name": "Green Automóveis Volkswagen ",
+    "domain": "www.greenautomoveis.com.br/volks",
+    "internal_link": "grupo-green.autodromo.app/volks"
+  },
+  {
+    "name": "Honda Cirne",
+    "domain": "www.cirnemotos.com.br",
+    "internal_link": "cirnemotoshonda.autodromo.app/honda-cirne"
+  },
+  {
+    "name": "Original Seminovos + OFF",
+    "domain": "",
+    "internal_link": "grupo-green.autodromo.app/original-seminovos"
+  },
+  {
+    "name": "Via VR Hyundai",
+    "domain": "www.viavr.com.br",
+    "internal_link": "via-vr-imperial.autodromo.app/via-vr-hyundai"
+  },
+  {
+    "name": "DAF Caminho",
+    "domain": "dafcaminho.com.br",
+    "internal_link": "caminho.autodromo.app/daf-caminho"
+  },
+  {
+    "name": "Jeep",
+    "domain": "www.pinautojeep.com.br/",
+    "internal_link": "testes.autodromo.app/jeep"
+  },
+  {
+    "name": "Auto Vini",
+    "domain": "teste-showroom",
+    "internal_link": "teste-vini.autodromo.app/showroom-teste"
+  },
+  {
+    "name": "STA Motors",
+    "domain": "www.stamotors.com.br",
+    "internal_link": "stamotors.autodromo.app/sta-motors"
+  },
+  {
+    "name": "Vespa Brasil ",
+    "domain": "",
+    "internal_link": "vespa.autodromo.app/vespa-brasil"
+  },
+  {
+    "name": "Fazauto",
+    "domain": "www.fazauto.com.br",
+    "internal_link": "fazauto-ceara-motor.autodromo.app/fazauto"
+  },
+  {
+    "name": "[OFF] Brasão Caminhões e Implementos",
+    "domain": "dominiobrasaocaminhoes.com.br/",
+    "internal_link": "brasao-caminhoes.autodromo.app/brasao-caminhoes-e-implementos"
+  },
+  {
+    "name": "McLarty Maia BYD",
+    "domain": "bydmclartymaia.com.br",
+    "internal_link": "caltabiano.autodromo.app/mclarty-maia-byd"
+  },
+  {
+    "name": "BYD",
+    "domain": "bydcarmais.com.br",
+    "internal_link": "carmais.autodromo.app/dd07e9f3-846e-4f7d-9da0-9df3a066a809"
+  },
+  {
+    "name": "Portal Nad",
+    "domain": "portalnad.com.br",
+    "internal_link": "www-portalnad-com-br.autodromo.app/nad"
+  },
+  {
+    "name": "ellure-seguros",
+    "domain": "",
+    "internal_link": "grupo-provence.autodromo.app/ellure-seguros-faf3f347-4e36-4f9a-a952-a757f9e2d585"
+  },
+  {
+    "name": "Dealer KTM",
+    "domain": "",
+    "internal_link": "testes.autodromo.app/dealer-ktm"
+  },
+  {
+    "name": "Teste Raviera",
+    "domain": "",
+    "internal_link": "modelo.autodromo.app/teste-raviera"
+  },
+  {
+    "name": "Portal Nad",
+    "domain": "portalnad.com",
+    "internal_link": "portalnad.autodromo.app/portal-nad"
+  },
+  {
+    "name": "Chevrolet Granleste",
+    "domain": "granlestegm.com.br",
+    "internal_link": "granline.autodromo.app/granleste-gm"
+  },
+  {
+    "name": "Dealer Fever",
+    "domain": "",
+    "internal_link": "testes.autodromo.app/dealer-fever-teste"
+  },
+  {
+    "name": "HMB Autoville",
+    "domain": "autovillehyundai.com.br",
+    "internal_link": "bdg.autodromo.app/hmb-autoville"
+  },
+  {
+    "name": "Royal Enfield ES",
+    "domain": "royalenfieldes.com.br",
+    "internal_link": "kobenissan.autodromo.app/royal-enfield-es"
+  },
+  {
+    "name": "Felivel VW",
+    "domain": "felivel.com.br",
+    "internal_link": "grupo_felivel.autodromo.app/felivel-vw"
+  },
+  {
+    "name": "Base | Toyota",
+    "domain": "",
+    "internal_link": "base.autodromo.app/base-toyota"
+  },
+  {
+    "name": "Ceará Motor Juazeiro do Norte",
+    "domain": "www.cearamotorcariri.com.br",
+    "internal_link": "fazauto-ceara-motor.autodromo.app/ceara-motor"
+  },
+  {
+    "name": "Viasul Jeep",
+    "domain": "",
+    "internal_link": "viasul-ofertas.autodromo.app/viasul-jeep"
+  },
+  {
+    "name": "Peugeot AutoFoz",
+    "domain": "autofozpeugeot.com.br",
+    "internal_link": "grupo_np_veiculos.autodromo.app/peugeot-autofoz"
+  },
+  {
+    "name": "Ceará Motor Fortaleza",
+    "domain": "www.cearamotor.com.br",
+    "internal_link": "fazauto-ceara-motor.autodromo.app/ceara-motor-cd520984-e0aa-4b0f-ae82-032b2e96f293"
+  },
+  {
+    "name": "Toyota T-Drive",
+    "domain": "www.tdrive.com.br",
+    "internal_link": "grupo-green.autodromo.app/toyota-t-drive"
+  },
+  {
+    "name": "Eurovia Renault",
+    "domain": "",
+    "internal_link": "viasul-ofertas.autodromo.app/eurovia-renault"
+  },
+  {
+    "name": "Site teste Treinamento",
+    "domain": "testesiterenault.com.br",
+    "internal_link": "testes-cuidar.autodromo.app/site-teste-treinamento"
+  },
+  {
+    "name": "honda003",
+    "domain": "",
+    "internal_link": "modelo.autodromo.app/honda003"
+  },
+  {
+    "name": "Nova Bahia Renault",
+    "domain": "novabahiaveiculos.com.br",
+    "internal_link": "gruposanave.autodromo.app/nova-bahia-renault"
+  },
+  {
+    "name": "Dealer Ventura Marine",
+    "domain": "www.redirect.acmapp.work",
+    "internal_link": "testes.autodromo.app/ventura-marine"
+  },
+  {
+    "name": "GWM Brasil",
+    "domain": "www.gwmmotors.com.br",
+    "internal_link": "gwmbrasil.autodromo.app/gwm-brasil"
+  },
+  {
+    "name": "McLarty Maia Smart",
+    "domain": "smart.mclartymaia.com.br",
+    "internal_link": "caltabiano.autodromo.app/mclartymaia-smart"
+  },
+  {
+    "name": "Vime Motos",
+    "domain": "vimemotos.com.br",
+    "internal_link": "grupo-vime.autodromo.app/vime-motos"
+  },
+  {
+    "name": "ITVA Motos",
+    "domain": "itavema.com.br/itva-motos",
+    "internal_link": "grupoitavema.autodromo.app/itva-motos"
+  },
+  {
+    "name": "Fiat Marina ",
+    "domain": "fiatmarina.com.br",
+    "internal_link": "fiat_marina.autodromo.app/fiat-marina"
+  },
+  {
+    "name": "Dealer Triumph",
+    "domain": "",
+    "internal_link": "testes.autodromo.app/triumph-teste-expandir"
+  },
+  {
+    "name": "Mitsubishi Ascia",
+    "domain": "www.asciamitsubishi.com.br",
+    "internal_link": "fiat-ascia.autodromo.app/mitsubishi-ascia"
+  },
+  {
+    "name": "Carboni Iveco",
+    "domain": "www.carboniiveco.com.br",
+    "internal_link": "carboni.autodromo.app/carboni-iveco"
+  },
+  {
+    "name": "SITE OFF SEMINOVOS {DESCONSIDERAR}",
+    "domain": "",
+    "internal_link": "colorado-concept.autodromo.app/site-off-seminovos-desconsiderar"
+  },
+  {
+    "name": "GMAX Chevrolet",
+    "domain": "www.gmaxchevrolet.com.br",
+    "internal_link": "euroamericas.autodromo.app/gmax-chevrolet"
+  },
+  {
+    "name": "SITE OFF",
+    "domain": "",
+    "internal_link": "quality-frotas.autodromo.app/site-off"
+  },
+  {
+    "name": "Cycosa GWM",
+    "domain": "www.gwmcycosa.com.br",
+    "internal_link": "cycosa-hyundai.autodromo.app/cycosa-gwm"
+  },
+  {
+    "name": "Dealer GWM",
+    "domain": "",
+    "internal_link": "testes.autodromo.app/dealergwm"
+  },
+  {
+    "name": "Dealer Dafra",
+    "domain": "",
+    "internal_link": "testes.autodromo.app/9f22ac1a-e774-40f6-b458-e482a39f1959"
+  },
+  {
+    "name": "SITE OFF {SEMINOVOS}",
+    "domain": "",
+    "internal_link": "grupo-vega.autodromo.app/site-off-seminovos"
+  },
+  {
+    "name": "Bamaq GWM",
+    "domain": "bamaqgwm.com.br",
+    "internal_link": "gwmbamaq.autodromo.app/bamaq-gwm"
+  },
+  {
+    "name": "VW Veículos",
+    "domain": "vwveiculos.com.br",
+    "internal_link": "vwveiculosebolaveiculos.autodromo.app/vw-veiculos"
+  },
+  {
+    "name": "Demonstração Honda",
+    "domain": "www.demonstraçãohonda.com.br",
+    "internal_link": "testes.autodromo.app/demonstra-ao-honda"
+  },
+  {
+    "name": "Nissan Mihara",
+    "domain": "www.nissanmihara.com.br",
+    "internal_link": "mihara.autodromo.app/nissan-mihara"
+  },
+  {
+    "name": "Guará Motor",
+    "domain": "www.guaramotor.com.br",
+    "internal_link": "guara.autodromo.app/guara-motor"
+  },
+  {
+    "name": "GWM Brasil Teste",
+    "domain": "",
+    "internal_link": "autoforce-academy.autodromo.app/gwm-brasil-teste"
+  },
+  {
+    "name": "Douramotors",
+    "domain": "douramotors.com.br",
+    "internal_link": "douramotors.autodromo.app/douramotors"
+  },
+  {
+    "name": "Avante Chevrolet",
+    "domain": "www.avantechevrolet.com.br",
+    "internal_link": "grupo-green.autodromo.app/avante-chevrolet"
+  },
+  {
+    "name": "Dealer Nissan",
+    "domain": "www.autoforcenissan.com.br",
+    "internal_link": "testes.autodromo.app/nissan-autoforce"
+  },
+  {
+    "name": "Euroville GWM",
+    "domain": "www.eurovillegwm.com.br",
+    "internal_link": "gwmeuroville.autodromo.app/euroville-gwm"
+  },
+  {
+    "name": "Golden Motors",
+    "domain": "goldenmotors.com.br",
+    "internal_link": "douramotors.autodromo.app/golden-motors"
+  },
+  {
+    "name": "terno gwm - qualidade",
+    "domain": "",
+    "internal_link": "autoforce-academy.autodromo.app/terno-gwm-qualidade"
+  },
+  {
+    "name": "Cosmar Pneus",
+    "domain": "www.cosmarpneus.com.br",
+    "internal_link": "cosmar.autodromo.app/cosmar-pneus"
+  },
+  {
+    "name": "McLarty Maia Land Rover",
+    "domain": "landrover.mclartymaia.com.br",
+    "internal_link": "caltabiano.autodromo.app/mclartymaia-land-rover"
+  },
+  {
+    "name": "showroom Junior",
+    "domain": "testeeee.testeracers.com.br",
+    "internal_link": "autoforce-academy.autodromo.app/showroom-junior"
+  },
+  {
+    "name": "Autostar Harley Davidson",
+    "domain": "harley-davidson.autostar.com.br",
+    "internal_link": "grupo-green.autodromo.app/autostar-harley-davidson"
+  },
+  {
+    "name": "Showroom Mercedes Hero",
+    "domain": "",
+    "internal_link": "autoforce-academy.autodromo.app/mercedes-hero"
+  },
+  {
+    "name": "Showroom Honda Motos",
+    "domain": "mostos.teste.com",
+    "internal_link": "autoforce-academy.autodromo.app/showroom-honda-motos"
+  },
+  {
+    "name": "Showroom 3.0 - Referência ",
+    "domain": "",
+    "internal_link": "autoforce-academy.autodromo.app/showroom-3-0"
+  },
+  {
+    "name": "Shizen Veículos ",
+    "domain": "shizenveiculos.com.br",
+    "internal_link": "shizen-veiculos.autodromo.app/shizen-veiculos-st"
+  },
+  {
+    "name": "Granvia Ford",
+    "domain": "",
+    "internal_link": "viasul-ofertas.autodromo.app/granvia-ford"
+  },
+  {
+    "name": "AutoPilot - Showroom (bolhaDeChatSemSubstituirFormulario)",
+    "domain": "",
+    "internal_link": "autoforce-academy.autodromo.app/autopilot-showroom-bolhadechatsemsubstituirformulario"
+  },
+  {
+    "name": "AutoPilot - Showroom (NÃO ALTERE) ",
+    "domain": "",
+    "internal_link": "autoforce-academy.autodromo.app/autopilot-showroom-nao-altere"
+  },
+  {
+    "name": "Michigan Teste",
+    "domain": "",
+    "internal_link": "autoforce-academy.autodromo.app/b608bfb4-9db7-4073-9dec-c12c71ad362a"
+  },
+  {
+    "name": "Teste Enzo",
+    "domain": "",
+    "internal_link": "autoforce-academy.autodromo.app/teste-enzo"
+  },
+  {
+    "name": "Minasmáquinas Librelato",
+    "domain": "www.equipamentosminasmaquinas.com.br",
+    "internal_link": "grupo-minasmaquinas.autodromo.app/minasmaquinas-librelato"
+  },
+  {
+    "name": "Honda Motobel ",
+    "domain": "www.motobelveiculos.com.br",
+    "internal_link": "nippon-motobel.autodromo.app/honda-motobel"
+  },
+  {
+    "name": "BYD (Teste Nitro)",
+    "domain": "",
+    "internal_link": "autoforce-academy.autodromo.app/byd-nitro"
+  },
+  {
+    "name": "Teste Matheus B",
+    "domain": "matheuschevrolet.com.br",
+    "internal_link": "teste-matheus.autodromo.app/matheus-chev"
+  },
+  {
+    "name": "Renault Hero",
+    "domain": "",
+    "internal_link": "autoforce-academy.autodromo.app/renault-hero-teste"
+  },
+  {
+    "name": "Pegasus Mitsubishi",
+    "domain": "mitpegasus.com.br",
+    "internal_link": "pegasus-mitsubishi.autodromo.app/pegasus-mitsubishi"
+  },
+  {
+    "name": "Honda Enjin",
+    "domain": "enjin.com.br",
+    "internal_link": "hondaenjin.autodromo.app/honda-enjin"
+  },
+  {
+    "name": "Viamar Chevrolet",
+    "domain": "www.viamar.com.br",
+    "internal_link": "viamar.autodromo.app/viamar-chevrolet"
+  },
+  {
+    "name": " AutoPilot(Autorama) - Showroom (NÃO ALTERE) ",
+    "domain": "",
+    "internal_link": "autoforce-academy.autodromo.app/autopilot-showroom"
+  },
+  {
+    "name": "Marca Boats",
+    "domain": "www.marcaboats.com.br",
+    "internal_link": "marca-motors.autodromo.app/marca-boats"
+  },
+  {
+    "name": "Shoowroom Nissan",
+    "domain": "",
+    "internal_link": "autoforce-academy.autodromo.app/shoowroom-nissan"
+  },
+  {
+    "name": "Honda Br Moto",
+    "domain": "brmoto.com.br",
+    "internal_link": "honda-brmoto.autodromo.app/honda-br-moto"
+  },
+  {
+    "name": "Toyota Ramires Motors ",
+    "domain": "ramiresmotors.com.br",
+    "internal_link": "toyota_ramires.autodromo.app/toyota-ramires-motors"
+  },
+  {
+    "name": "Newvia Bajaj",
+    "domain": "www.newvia.com.br",
+    "internal_link": "viasul.autodromo.app/ce519ec7-ffda-4739-b20e-0cca45a0aa1d"
+  },
+  {
+    "name": "Nissan Nagai",
+    "domain": "www.nissannagai.com.br",
+    "internal_link": "grupo-dijon.autodromo.app/nissan-nagai"
+  },
+  {
+    "name": "SITE OFF {INSTITUTO}",
+    "domain": "",
+    "internal_link": "grupoitavema.autodromo.app/site-off-instituto"
+  },
+  {
+    "name": "Iveco Deva",
+    "domain": "www.deva.com.br",
+    "internal_link": "gruposada.autodromo.app/iveco-deva"
+  },
+  {
+    "name": "Royal Enfield",
+    "domain": "",
+    "internal_link": "gruporemotors.autodromo.app/royal-enfield"
+  },
+  {
+    "name": "gwm treinamento ",
+    "domain": "",
+    "internal_link": "testes.autodromo.app/gwm-treinamento"
+  },
+  {
+    "name": "Honda Aversa",
+    "domain": "aversa.com.br",
+    "internal_link": "grupo-aversa.autodromo.app/honda-aversa"
+  },
+  {
+    "name": "Honda Forte",
+    "domain": "hondaforte.com.br",
+    "internal_link": "jeep-dahruj.autodromo.app/honda-forte"
+  },
+  {
+    "name": "Original KIA ",
+    "domain": "www.originalkia.com.br",
+    "internal_link": "grupo-green.autodromo.app/original-kia"
+  },
+  {
+    "name": "Automoveis Olinda - TESTE ANGELINA",
+    "domain": "",
+    "internal_link": "autoforce-academy.autodromo.app/automoveis-olinda"
+  },
+  {
+    "name": "Convem Honda",
+    "domain": "convem.com.br",
+    "internal_link": "convem.autodromo.app/convem-honda"
+  },
+  {
+    "name": "Audi Center",
+    "domain": "www.audicentersalvador.com.br",
+    "internal_link": "sanave.autodromo.app/audi-center"
+  },
+  {
+    "name": "Ares Motos - Bahia",
+    "domain": "ba.aresmotos.com.br",
+    "internal_link": "grupo-linhares.autodromo.app/ares-motos-bahia"
+  },
+  {
+    "name": "Caiobá Trucks",
+    "domain": "www.caiobatrucks.com.br",
+    "internal_link": "grupocaioba.autodromo.app/caioba-trucks"
+  },
+  {
+    "name": "Green Automóveis Peugeot",
+    "domain": "www.greenautomoveis.com.br/peugeot",
+    "internal_link": "grupo-green.autodromo.app/peugeot"
+  },
+  {
+    "name": "Discar Volkswagen",
+    "domain": "discar.com.br",
+    "internal_link": "discar-volkswagen.autodromo.app/discar-volkswagen"
+  },
+  {
+    "name": "Novos Tempos VW",
+    "domain": "novostemposvolks.com.br",
+    "internal_link": "novos-tempos.autodromo.app/novostemposvolkws"
+  },
+  {
+    "name": "Sorana Audi",
+    "domain": "soranaaudi.com.br",
+    "internal_link": "sorana-veiculos.autodromo.app/audi"
+  },
+  {
+    "name": "ENE SEGUROS {OFF}",
+    "domain": "",
+    "internal_link": "grupo_np_veiculos.autodromo.app/ene-seguros-site-off"
+  },
+  {
+    "name": "Audi Lapa",
+    "domain": "audilapa.com.br",
+    "internal_link": "sorana-veiculos.autodromo.app/audi-center-lapa"
+  },
+  {
+    "name": "Audi Center Pinheiros",
+    "domain": "audicenterpinheiros.com.br",
+    "internal_link": "sorana-veiculos.autodromo.app/audi-center-pinheiros"
+  },
+  {
+    "name": "Renault Mazzutti",
+    "domain": "mazzuttirenault.com.br",
+    "internal_link": "mazzutti.autodromo.app/renault-mazzutti"
+  },
+  {
+    "name": "Volvo Autostar + OFF",
+    "domain": "",
+    "internal_link": "grupo-green.autodromo.app/volvo-autostar-off"
+  },
+  {
+    "name": "Ribeirão Diesel Pneus",
+    "domain": "ribeiraodieselpneus.com.br",
+    "internal_link": "grupo-stefani.autodromo.app/ribeirao-diesel-pneus"
+  },
+  {
+    "name": "ViaSul MT Citroen",
+    "domain": "citroen.viasulmt.com.br",
+    "internal_link": "grandouradostanguara.autodromo.app/viasul-mt-citroen"
+  },
+  {
+    "name": "Volvo Granstad",
+    "domain": "www.granstadvolvo.com.br",
+    "internal_link": "granline.autodromo.app/grandstad-volvo"
+  },
+  {
+    "name": "Citroën | Via Mobilité",
+    "domain": "viamobilitecitroen.com.br",
+    "internal_link": "grupo-primavia.autodromo.app/primavia-citroen"
+  },
+  {
+    "name": "HYUNDAI Caminho",
+    "domain": "hmbcaminho.com.br",
+    "internal_link": "caminho.autodromo.app/hyundai-caminho"
+  },
+  {
+    "name": "HMB | Vime",
+    "domain": "vimehmb.com.br",
+    "internal_link": "grupo-vime.autodromo.app/hmb-vime"
+  },
+  {
+    "name": "Autorac ",
+    "domain": "autorac.com.br",
+    "internal_link": "autorac-motorac.autodromo.app/autorac"
+  },
+  {
+    "name": "Hyundai Granday",
+    "domain": "www.grandayhb.com.br",
+    "internal_link": "granline.autodromo.app/granday-hb"
+  },
+  {
+    "name": "Mazzutti Veículos",
+    "domain": "mazzuttiveiculos.com.br",
+    "internal_link": "mazzutti.autodromo.app/mazzutti-veiculos"
+  },
+  {
+    "name": "Nissul Gala Hyundai",
+    "domain": "nissulgalahyundai.com.br",
+    "internal_link": "gruponissulgala.autodromo.app/nissul-gala-hyundai"
+  },
+  {
+    "name": "Maracar Veículos",
+    "domain": "maracar.com.br",
+    "internal_link": "grupo-gama.autodromo.app/maracar-veiculos"
+  },
+  {
+    "name": "Rpoint Renault",
+    "domain": "rpoint.com.br",
+    "internal_link": "grupo-green.autodromo.app/rpoint"
+  },
+  {
+    "name": "Kia Hero",
+    "domain": "",
+    "internal_link": "autoforce-academy.autodromo.app/kia-hero"
+  },
+  {
+    "name": "Honda Flora",
+    "domain": "floramotors.com.br",
+    "internal_link": "floramotors.autodromo.app/honda-motors"
+  },
+  {
+    "name": "GWM Jorlan-ev",
+    "domain": "www.jorlanev.com.br",
+    "internal_link": "gwm-jorlan.autodromo.app/gwm-jorlan"
+  },
+  {
+    "name": "Teste Showroom Digital - Gabriel",
+    "domain": "",
+    "internal_link": "autoforce-academy.autodromo.app/teste-showroom-digital-gabriel"
+  },
+  {
+    "name": "Dealer VW",
+    "domain": "",
+    "internal_link": "autoforce-academy.autodromo.app/dealer-vw"
+  },
+  {
+    "name": "Sorana Volkswagen",
+    "domain": "soranavw.com.br",
+    "internal_link": "sorana-veiculos.autodromo.app/vw"
+  },
+  {
+    "name": "Marca Motors",
+    "domain": "marcamotors.com.br",
+    "internal_link": "marca-motors.autodromo.app/marcamotors"
+  },
+  {
+    "name": "AutoPilot - Site de Terceiros (NÃO ALTERE)",
+    "domain": "",
+    "internal_link": "autoforce-academy.autodromo.app/autopilot-terceiros"
+  },
+  {
+    "name": "Nova Onda",
+    "domain": "novaondamoto.com.br",
+    "internal_link": "grupo-linhares.autodromo.app/nova-onda"
+  },
+  {
+    "name": "RR Imports Zucatelli",
+    "domain": "rrimportszucatelli.com.br",
+    "internal_link": "zucatelli.autodromo.app/rr-imports-zucatelli"
+  },
+  {
+    "name": "Dokar Veículos",
+    "domain": "www.dokarveiculos.com.br",
+    "internal_link": "dokarveiculos.autodromo.app/dokar-veiculos"
+  },
+  {
+    "name": "Triumph EDISA",
+    "domain": "www.triumphedisa.com.br",
+    "internal_link": "edisa.autodromo.app/triumph-edisa"
+  },
+  {
+    "name": "Autostar Triumph",
+    "domain": "triumph.autostar.com.br",
+    "internal_link": "grupo-green.autodromo.app/autostar-triumph"
+  },
+  {
+    "name": "BDG Máquinas",
+    "domain": "bdgmaquinas.com.br",
+    "internal_link": "bdg.autodromo.app/bdg-maquinas"
+  },
+  {
+    "name": "Tókio Nissan ",
+    "domain": "www.tokionissan.com.br",
+    "internal_link": "viamar.autodromo.app/tokio-nissan"
+  },
+  {
+    "name": "Marca Pneus Michelin",
+    "domain": "marcapneus.com.br",
+    "internal_link": "marca-motors.autodromo.app/marca-pneus-michelin"
+  },
+  {
+    "name": "Andreta Volkswagen",
+    "domain": "www.andretavw.com.br",
+    "internal_link": "andretafiat.autodromo.app/andreta-volkswagen"
+  },
+  {
+    "name": "Andreta Chery",
+    "domain": "andretachery.com.br",
+    "internal_link": "andretafiat.autodromo.app/andreta-chery"
+  },
+  {
+    "name": "Andreta Hyundai",
+    "domain": "andretahmb.com.br",
+    "internal_link": "andretafiat.autodromo.app/andreta-hyundai"
+  },
+  {
+    "name": "ViaSul MT Peugeot",
+    "domain": "peugeot.viasulmt.com.br",
+    "internal_link": "grandouradostanguara.autodromo.app/viasul-mt-peugeot"
+  },
+  {
+    "name": "Liberato Veículos ",
+    "domain": "www.liberatoveiculos.com.br",
+    "internal_link": "liberato-veiculos.autodromo.app/liberato-veiculos"
+  },
+  {
+    "name": "Pinauto Renault",
+    "domain": "pinautorenault.com.br",
+    "internal_link": "pinauto-seminovos.autodromo.app/renault"
+  },
+  {
+    "name": "Autoeste VW",
+    "domain": "autoestevw.com.br",
+    "internal_link": "autoestevw.autodromo.app/autoeste-vw"
+  },
+  {
+    "name": "Euro Import MINI",
+    "domain": "www.euroimportmini.com.br",
+    "internal_link": "grupo-green.autodromo.app/euro-import-mini"
+  },
+  {
+    "name": "Audi Center Maceió",
+    "domain": "audicentermaceio.com.br",
+    "internal_link": "grupo-gama.autodromo.app/audi-center-maceio"
+  },
+  {
+    "name": "HMB TOP MOTORS",
+    "domain": "www.tophmb.com.br",
+    "internal_link": "tophmb.autodromo.app/hmb-top-motors"
+  },
+  {
+    "name": "Original Triumph",
+    "domain": "triumphoriginal.com.br",
+    "internal_link": "grupo-green.autodromo.app/original-triumph"
+  },
+  {
+    "name": "Dealer Massey Ferguson",
+    "domain": "",
+    "internal_link": "testes.autodromo.app/0db0582e-efc8-46bb-ae08-0c751a5cc9dc"
+  },
+  {
+    "name": "Dealer Royal Enfield",
+    "domain": "",
+    "internal_link": "testes.autodromo.app/royalenfield"
+  },
+  {
+    "name": "Viasul Fiat",
+    "domain": "",
+    "internal_link": "viasul-ofertas.autodromo.app/viasul-fiat"
+  },
+  {
+    "name": "Intervia Kia",
+    "domain": "",
+    "internal_link": "viasul-ofertas.autodromo.app/intervia-kia"
+  },
+  {
+    "name": "Hyundai Green City",
+    "domain": "www.greencityveiculos.com.br",
+    "internal_link": "jelta.autodromo.app/hyundai-green-city"
+  },
+  {
+    "name": "honda001",
+    "domain": "",
+    "internal_link": "modelo.autodromo.app/honda001"
+  },
+  {
+    "name": "Dirmave Volkswagen",
+    "domain": "www.dirmave.com.br",
+    "internal_link": "dirmave.autodromo.app/dirmave-volkswagen"
+  },
+  {
+    "name": "teste",
+    "domain": "",
+    "internal_link": "teste-grupo-portal.autodromo.app/teste"
+  },
+  {
+    "name": "Granstar Seminovos",
+    "domain": "granstarseminovos.com.br",
+    "internal_link": "granline.autodromo.app/granstar-seminovos"
+  },
+  {
+    "name": "Teste Hero",
+    "domain": "",
+    "internal_link": "autoforce-academy.autodromo.app/teste-hero"
+  },
+  {
+    "name": "Lore",
+    "domain": "testelorena.com.br",
+    "internal_link": "teste-lorena.autodromo.app/teste"
+  },
+  {
+    "name": "Bajaj EDISA",
+    "domain": "www.bajajedisa.com.br",
+    "internal_link": "edisa.autodromo.app/bajaj-edisa"
+  },
+  {
+    "name": "SITE OFF {SEMINOVOS}",
+    "domain": "",
+    "internal_link": "mw-seminovos.autodromo.app/site-off-seminovos"
+  },
+  {
+    "name": "003 - Uma unidade",
+    "domain": "",
+    "internal_link": "autopilot.autodromo.app/003-uma-unidade"
+  },
+  {
+    "name": "Seminovos Premium",
+    "domain": "www.cordialpremium.com.br/",
+    "internal_link": "grupo-cordial.autodromo.app/seminovos-premium"
+  },
+  {
+    "name": "Rodobens Hyundai",
+    "domain": "automoveishyundai.rodobens.com.br",
+    "internal_link": "rodobens.autodromo.app/rodobens-hyundai"
+  },
+  {
+    "name": "Vega Volkswagen",
+    "domain": "vegavw.com.br",
+    "internal_link": "grupo-vega.autodromo.app/vega-volkswagen"
+  },
+  {
+    "name": "Duda Renault",
+    "domain": "site.dudarenault.com",
+    "internal_link": "testes-cuidar.autodromo.app/duda-renault"
+  },
+  {
+    "name": "Layout 3.0 Padrão",
+    "domain": "",
+    "internal_link": "automacao.autodromo.app/layout-3-0-padrao"
+  },
+  {
+    "name": "Servel Chevrolet",
+    "domain": "www.servelchevrolet.com.br",
+    "internal_link": "servelveiculos.autodromo.app/servel-chevrolet"
+  },
+  {
+    "name": "Ls Tractor - Teste",
+    "domain": "",
+    "internal_link": "autoforce-academy.autodromo.app/ls-tractor-teste"
+  },
+  {
+    "name": "Teste raviera land",
+    "domain": "",
+    "internal_link": "modelo.autodromo.app/teste-raviera-land"
+  },
+  {
+    "name": "Autobraz",
+    "domain": "autobraz.com.br/",
+    "internal_link": "teste-lorena.autodromo.app/auto-braz"
+  },
+  {
+    "name": "Autoeste",
+    "domain": "autoestefoz.com.br",
+    "internal_link": "grupo_np_veiculos.autodromo.app/autoeste"
+  },
+  {
+    "name": "Dealer Peugeot",
+    "domain": "www.peugeotdealer.com.br",
+    "internal_link": "grupo-dealer.autodromo.app/peugeot-dealer"
+  },
+  {
+    "name": "Discautol",
+    "domain": "discautol.com.br",
+    "internal_link": "discautol.autodromo.app/discautol"
+  },
+  {
+    "name": "Mitsubishi Misaki",
+
+    "domain": "mitsubishimisaki.com.br",
+    "internal_link": "grupo-gp.autodromo.app/mitsubishi-misaki"
+  },
+  {
+    "name": "Grupo Duna",
+    "domain": "www.grupoduna.com.br",
+    "internal_link": "duna.autodromo.app/grupo-duna"
+  },
+  {
+    "name": "Ian Automoveis (SHOWROOM)",
+    "domain": "showroom-teste",
+    "internal_link": "teste-ian.autodromo.app/ian-automoveis-showroom"
+  },
+  {
+    "name": "BYD Viamar ",
+    "domain": "bydviamar.com.br",
+    "internal_link": "viamar.autodromo.app/byd-sao-bernardo-do-campo"
+  },
+  {
+    "name": "APEÚ MOTOS AGENDAMENTO",
+    "domain": "www.apeumotos.com.br",
+    "internal_link": "apeumotos.autodromo.app/apeu-motos"
+  },
+  {
+    "name": "Mult Boats",
+    "domain": "www.multboats.com.br",
+    "internal_link": "kobenissan.autodromo.app/mult-boats"
+  },
+  {
+    "name": "Canal Teste Porsche ",
+    "domain": "",
+    "internal_link": "testes.autodromo.app/canal-teste-porsche"
+  },
+  {
+    "name": "teste michelin",
+    "domain": "",
+    "internal_link": "teste-conpass.autodromo.app/teste-michelin"
+  },
+  {
+    "name": "autopeças TESTE",
+    "domain": "auttopeçastesteteste.com.br",
+    "internal_link": "testes-cuidar.autodromo.app/autopecas-teste"
+  },
+  {
+    "name": "HMotors",
+    "domain": "hmotors.com.br",
+    "internal_link": "hmotors.autodromo.app/hmotors"
+  },
+  {
+    "name": "Caiobá Honda",
+    "domain": "www.caiobahonda.com.br",
+    "internal_link": "grupocaioba.autodromo.app/caioba-honda"
+  },
+  {
+    "name": "McLarty Maia Jaguar",
+    "domain": "jaguar.mclartymaia.com.br",
+    "internal_link": "caltabiano.autodromo.app/mclartymaia-jaguar"
+  },
+  {
+    "name": "Blog",
+    "domain": "",
+    "internal_link": "barigui.autodromo.app/blog"
+  },
+  {
+    "name": "Gama Renault ",
+    "domain": "renaultgama.com.br",
+    "internal_link": "grupo-gama.autodromo.app/gama-renault"
+  },
+  {
+    "name": "Jaraguá Máquinas",
+    "domain": "jaraguamaquinas.com.br",
+    "internal_link": "fama-motors.autodromo.app/jaragua-maquinas"
+  },
+  {
+    "name": "Toriba GWM",
+    "domain": "www.toribagwm.com.br",
+    "internal_link": "grupo-toriba.autodromo.app/toriba-gwm"
+  },
+  {
+    "name": "Ares Motos - Ceará",
+    "domain": "ce.aresmotos.com.br",
+    "internal_link": "grupo-linhares.autodromo.app/ares-motos-ceara"
+  },
+  {
+    "name": "Honda Hville",
+    "domain": "hville.com.br",
+    "internal_link": "hville.autodromo.app/honda-hville"
+  },
+  {
+    "name": "Raviera Nissan",
+    "domain": "ravieranissan.com.br",
+    "internal_link": "raviera.autodromo.app/raviera-nissan"
+  },
+  {
+    "name": "SITE OFF - REPASSE",
+    "domain": "",
+    "internal_link": "quality-frotas.autodromo.app/site-off-repasse"
+  },
+  {
+    "name": "AcDelco Usamax Autocenter",
+    "domain": "www.usamaxacdelco.com.br",
+    "internal_link": "viamar.autodromo.app/acdelco-usamax-autocenter"
+  },
+  {
+    "name": "Euro Import Land Rover + OFF",
+    "domain": "",
+    "internal_link": "grupo-green.autodromo.app/euro-import-land-rover-off"
+  },
+  {
+    "name": "Canopus GWM",
+    "domain": "www.gwmcanopus.com.br",
+    "internal_link": "grupo-canopus.autodromo.app/canopus-gwm"
+  },
+  {
+    "name": "Rivian - Teste Jean Carlos",
+    "domain": "Rivian",
+    "internal_link": "autoforce-academy.autodromo.app/rivian-teste-jean-carlos"
+  },
+  {
+    "name": "Blog Kantam",
+    "domain": "",
+    "internal_link": "kantamveiculos.autodromo.app/blog-kantam"
+  },
+  {
+    "name": "Felice Mitsubishi ",
+    "domain": "felicemit.com.br",
+    "internal_link": "mitisubishi-felice.autodromo.app/felice-mit"
+  },
+  {
+    "name": "GWM Brasil Staging",
+    "domain": "",
+    "internal_link": "autoforce-academy.autodromo.app/gwm-brasil"
+  },
+  {
+    "name": "GWM Carmais",
+    "domain": "www.gwmcarmais.com.br",
+    "internal_link": "carmais.autodromo.app/gw-carmais"
+  },
+  {
+    "name": "Jeep Teste Renan Nitro",
+    "domain": "",
+    "internal_link": "teste-nitro-renan.autodromo.app/jeep-teste-renan-nitro"
+  },
+  {
+    "name": "Dealer Kawasaki",
+    "domain": "",
+    "internal_link": "testes.autodromo.app/dealer-kawasaki"
+  },
+  {
+    "name": "Original CAOA Chery",
+    "domain": "www.originalcaoachery.com.br",
+    "internal_link": "grupo-green.autodromo.app/original-caoa-chery"
+  },
+  {
+    "name": "JC Barroso",
+    "domain": "jcbarroso.com.br",
+    "internal_link": "jcbarroso.autodromo.app/jc-barroso"
+  },
+  {
+    "name": "Soma France",
+    "domain": "somafrance.com.br",
+    "internal_link": "soma-veiculos.autodromo.app/soma-france"
+  },
+  {
+    "name": "Original GWM",
+    "domain": "originalgwm.com.br",
+    "internal_link": "grupo-green.autodromo.app/original-gwm-4775c419-1a40-4680-bb37-8f659bb89fb5"
+  },
+  {
+    "name": "Cofipe Iveco",
+    "domain": "",
+    "internal_link": "cofipe.autodromo.app/add666e1-2576-46ec-9974-14bfd9b213bc"
+  },
+  {
+    "name": "GWM Caminho",
+    "domain": "www.gwmcaminho.com.br",
+    "internal_link": "caminho.autodromo.app/gwm-caminho"
+  },
+  {
+    "name": "Yamaha EDISA",
+    "domain": "www.yamahaedisa.com.br",
+    "internal_link": "edisa.autodromo.app/yamaha-edisa"
+  },
+  {
+    "name": "Vega Triumph",
+    "domain": "www.vegatriumph.com.br",
+    "internal_link": "grupo-vega.autodromo.app/vegatriumph"
+  },
+  {
+    "name": "Original BYD Mato Grosso do Sul",
+    "domain": "www.originalbyd.com.br/byd-mato-grosso-do-sul",
+    "internal_link": "grupo-green.autodromo.app/byd-mato-grosso-do-sul"
+  },
+  {
+    "name": "Hyundai Demo",
+    "domain": "testehyundai.com.br",
+    "internal_link": "autoforce-academy.autodromo.app/hyundaidemo"
+  },
+  {
+    "name": "Irevel",
+    "domain": "www.irevel.com.br",
+    "internal_link": "irevel.autodromo.app/irevel-v2"
+  },
+  {
+    "name": "BYD Dahruj",
+    "domain": "www.byddahruj.com.br",
+    "internal_link": "jeep-dahruj.autodromo.app/byd-dahruj"
+  },
+  {
+    "name": "Supra Nissan",
+    "domain": "nissansupra.com.br",
+    "internal_link": "supra-nissan.autodromo.app/nissan-supra"
+  },
+  {
+    "name": "GWM Dahruj",
+    "domain": "gwmdahruj.com.br",
+    "internal_link": "jeep-dahruj.autodromo.app/gwm-dahruj"
+  },
+  {
+    "name": "Vital Hyundai",
+    "domain": "www.vitalhyundai.com.br",
+    "internal_link": "vital-hyundai.autodromo.app/vital-hyundai"
+  },
+  {
+    "name": "Triumph Euro Motors",
+    "domain": "triumphriopreto.com.br",
+    "internal_link": "grupojcmattias.autodromo.app/triumph"
+  },
+  {
+    "name": "Audi Center Aracaju ",
+    "domain": "audicenteraracaju.com.br",
+    "internal_link": "grupo-gama.autodromo.app/d29dc107-b22b-46f5-b34b-231acc8fbe91"
+  },
+  {
+    "name": "Honda Motorac",
+    "domain": "motorachonda.com",
+    "internal_link": "autorac-motorac.autodromo.app/motorac"
+  },
+  {
+    "name": "Ducati",
+    "domain": "www.ducaticuritiba.com.br",
+    "internal_link": "gruporemotors.autodromo.app/ducati"
+  },
+  {
+    "name": "Dealer Citroën",
+    "domain": "www.citroendealer.com.br",
+    "internal_link": "grupo-dealer.autodromo.app/citroen-dealer"
+  },
+  {
+    "name": "Destaque Hyundai",
+    "domain": "www.destaquehyundai.com.br",
+    "internal_link": "destaque.autodromo.app/destaque-hyundai"
+  },
+  {
+    "name": "Terra Santa Motos",
+    "domain": "terrasantamotos.com.br",
+    "internal_link": "grupo-linhares.autodromo.app/terra-santa-motos"
+  },
+  {
+    "name": "Caiobá Implementos Rodoviários",
+    "domain": "www.caiobaimplementos.com.br",
+    "internal_link": "grupocaioba.autodromo.app/caioba-implementos-rodoviarios"
+  },
+  {
+    "name": "Renault Dijon",
+    "domain": "renaultdijon.com.br",
+    "internal_link": "grupo-dijon.autodromo.app/renault-dijon"
+  },
+  {
+    "name": "Autus Chevrolet",
+    "domain": "autus.com.br",
+    "internal_link": "autus.autodromo.app/autus-chrevrolet"
+  },
+  {
+    "name": "Honda Nippon",
+    "domain": "www.nipponveiculos.com.br",
+    "internal_link": "nippon-motobel.autodromo.app/nippon"
+  },
+  {
+    "name": "Multicar Renault",
+    "domain": "multicarrenault.com.br",
+    "internal_link": "kobenissan.autodromo.app/multicar-renault"
+  },
+  {
+    "name": "Eurovia Nissan",
+    "domain": "",
+    "internal_link": "viasul-ofertas.autodromo.app/eurovia-nissan"
+  },
+  {
+    "name": "BYD Vega",
+    "domain": "vegabyd.com.br",
+    "internal_link": "grupo-vega.autodromo.app/byd-vega"
+  },
+  {
+    "name": "Citroen AutoFoz",
+    "domain": "autofozcitroen.com.br",
+    "internal_link": "grupo_np_veiculos.autodromo.app/citroen-autofoz"
+  },
+  {
+    "name": "AutoFoz Fiat ",
+    "domain": "autofoz.com.br",
+    "internal_link": "grupo_np_veiculos.autodromo.app/autofoz-fiat"
+  },
+  {
+    "name": "Endo Moto",
+    "domain": "www.endomoto.com.br",
+    "internal_link": "endo-moto.autodromo.app/endo-moto"
+  },
+  {
+    "name": "Audi Center Campo Grande",
+    "domain": "audicentercampogrande.com.br",
+    "internal_link": "autobel.autodromo.app/autobel-audi"
+  },
+  {
+    "name": "Audi Center Cuiabá",
+    "domain": "audicentercuiaba.com.br",
+    "internal_link": "autobel.autodromo.app/audi-center-cuiaba"
+  },
+  {
+    "name": "SL Veículos Ford",
+    "domain": "slveiculos.com.br",
+    "internal_link": "slgrupo.autodromo.app/sl-ford"
+  },
+  {
+    "name": "Dimas GWM",
+    "domain": "www.dimasgwm.com.br",
+    "internal_link": "grupo-dimas.autodromo.app/dimas-gwm"
+  },
+  {
+    "name": "Terra Santa Renault",
+    "domain": "terrasantarenault.com.br",
+    "internal_link": "grupo-linhares.autodromo.app/terra-santa-renault"
+  },
+  {
+    "name": "Terra Santa Hyundai",
+    "domain": "terrasantahyundai.com.br",
+    "internal_link": "grupo-linhares.autodromo.app/terra-santa-hyundai"
+  },
+  {
+    "name": "Peugeot | Via Mobilité",
+    "domain": "viamobilitepeugeot.com.br",
+    "internal_link": "grupo-primavia.autodromo.app/primavia-peugeot"
+  },
+  {
+    "name": "Honda Motec ",
+    "domain": "motec.com.br",
+    "internal_link": "grupo_np_veiculos.autodromo.app/honda-motec"
+  },
+  {
+    "name": "Sanave VW",
+    "domain": "www.sanave.com.br",
+    "internal_link": "sanave.autodromo.app/sanave-vw"
+  },
+  {
+    "name": "Max HMB",
+    "domain": "www.maxhb.com.br",
+    "internal_link": "viamar.autodromo.app/max-hmb"
+  },
+  {
+    "name": "Andreta Renault",
+    "domain": "andretarenault.com.br",
+    "internal_link": "andretafiat.autodromo.app/andreta-renault"
+  },
+  {
+    "name": "Andreta Mitsubishi",
+    "domain": "andretamitsubishi.com.br",
+    "internal_link": "andretafiat.autodromo.app/andreta-mitsubishi"
+  },
+  {
+    "name": "Original Renault ",
+    "domain": "www.originalrenault.com.br",
+    "internal_link": "grupo-green.autodromo.app/original-renault"
+  },
+  {
+    "name": "Toyota Rodobens",
+    "domain": "automoveistoyota.rodobens.com.br",
+    "internal_link": "rodobens.autodromo.app/toyota-rodobens"
+  },
+  {
+    "name": "Xapuri Motors",
+    "domain": "xapurimotors.com.br",
+    "internal_link": "raviera.autodromo.app/xapuri-motors"
+  },
+  {
+    "name": "Bola Veículos",
+    "domain": "bolaveiculosro.com.br",
+    "internal_link": "vwveiculosebolaveiculos.autodromo.app/bola-veiculos"
+  },
+  {
+    "name": "Honda Takai",
+    "domain": "www.hondatakai.com.br",
+    "internal_link": "takai.autodromo.app/honda-takai"
+  },
+  {
+    "name": "Arco Motos",
+    "domain": "www.arcomotos.com",
+    "internal_link": "arcomotos.autodromo.app/arco-motos"
+  },
+  {
+    "name": "Original Hyundai",
+    "domain": "www.originalhyundai.com.br",
+    "internal_link": "grupo-green.autodromo.app/original-hyundai"
+  },
+  {
+    "name": "LS Tractor ASAP",
+    "domain": "asaplstractor.com.br",
+    "internal_link": "grupo-triasa.autodromo.app/ls-tractor-asap"
+  },
+  {
+    "name": "Prime Hyundai",
+    "domain": "primehyundai.com.br",
+    "internal_link": "passion.autodromo.app/prime-hyundai"
+  },
+  {
+    "name": "Thema Veículos",
+    "domain": "themaveiculos.com.br",
+    "internal_link": "thema.autodromo.app/thema-veiculos"
+  },
+  {
+    "name": "Interlagos",
+    "domain": "interlagos.com.br",
+    "internal_link": "modelo.autodromo.app/interlagos"
+  },
+  {
+    "name": "Endo Car",
+    "domain": "endocar.com.br",
+    "internal_link": "endocar.autodromo.app/endo-car"
+  },
+  {
+    "name": "Cometa Hyundai - Tangará da Serra",
+    "domain": "tangara.cometahyundai.com.br",
+    "internal_link": "grupocometa.autodromo.app/cometa-hyundai-tangara-da-serra"
+  },
+  {
+    "name": "McLarty Maia Mercedes",
+    "domain": "mercedesbenzmclartymaia.com.br",
+    "internal_link": "caltabiano.autodromo.app/mercedes-benz"
+  },
+  {
+    "name": "Euroville MINI",
+    "domain": "eurovillebmw.com.br/mini",
+    "internal_link": "euroville.autodromo.app/mini"
+  },
+  {
+    "name": "Multicar",
+    "domain": "multicarmitsubishi.com.br",
+    "internal_link": "kobenissan.autodromo.app/multicar"
+  },
+  {
+    "name": "Carmais Venda Direta",
+    "domain": "",
+    "internal_link": "carmais.autodromo.app/vendasdiretas"
+  },
+  {
+    "name": "Valence RAM",
+    "domain": "www.valenceram.com.br",
+    "internal_link": "valence.autodromo.app/valence-ram"
+  },
+  {
+    "name": "BEXP Jeep",
+    "domain": "bexp.com.br/jeep",
+    "internal_link": "bexp.autodromo.app/jeep"
+  },
+  {
+    "name": "Salvador Car",
+    "domain": "salvadorcar.com.br",
+    "internal_link": "salvadorcar.autodromo.app/salvador-car"
+  },
+  {
+    "name": "GWM AMÉRICAS",
+    "domain": "gwmamericas.com.br",
+    "internal_link": "euroamericas.autodromo.app/gwrio"
+  },
+  {
+    "name": "Geração CFMoto",
+    "domain": "www.tubarao.geracaoadventure.com.br",
+    "internal_link": "grupo-geracao.autodromo.app/geracao-cfmoto"
+  },
+  {
+    "name": "Dimasa VW",
+    "domain": "dimasavolkswagen.com.br",
+    "internal_link": "dimasa.autodromo.app/dimasa-vw"
+  },
+  {
+    "name": "Correauto VW",
+    "domain": "correautovw.com.br",
+    "internal_link": "correauto-vw.autodromo.app/correauto-vw"
+  },
+  {
+    "name": "Endo Motors",
+    "domain": "endomotors.com.br",
+    "internal_link": "grupoendo.autodromo.app/endo-motors"
+  },
+  {
+    "name": "Dealer Horsch",
+    "domain": "",
+    "internal_link": "testes.autodromo.app/horsch"
+  },
+  {
+    "name": "Teste Raquel",
+    "domain": "",
+    "internal_link": "teste-raquel.autodromo.app/murano-fiat"
+  },
+  {
+    "name": "Redenção Renault",
+    "domain": "redencaorenault.com.br",
+    "internal_link": "redencao.autodromo.app/renault"
+  },
+  {
+    "name": "Mônaco Volkswagen Caminhões e Ônibus",
+    "domain": "monacodiesel.com.br",
+    "internal_link": "grupo-monaco.autodromo.app/monaco-volkswagen-caminhoes-e-onibus"
+  },
+  {
+    "name": "Prime Mitsubishi",
+    "domain": "www.primemit.com.br",
+    "internal_link": "passion.autodromo.app/prime-mitsubishi"
+  },
+  {
+    "name": "Autokraft Motorrad",
+    "domain": "autokraft-bmw.com.br/bmw-motorrad",
+    "internal_link": "autokraft.autodromo.app/bmw-motorrad"
+  },
+  {
+    "name": "Nissan Via Mondo",
+    "domain": "www.viamondonissan.com.br",
+    "internal_link": "viamondo.autodromo.app/nissan-via-mondo"
+  },
+  {
+    "name": "Azumi",
+    "domain": "azumiveiculos.com.br",
+    "internal_link": "thema.autodromo.app/azumi"
+  },
+  {
+    "name": "Enzo Mobility",
+    "domain": "enzomobility.com.br",
+    "internal_link": "grupoenzo.autodromo.app/enzo-mobility"
+  },
+  {
+    "name": "Honda Saikon",
+    "domain": "www.hondasaikon.com.br",
+    "internal_link": "grupo-provence.autodromo.app/honda-saikon"
+  },
+  {
+    "name": "Endo San ",
+    "domain": "endosan.com.br",
+    "internal_link": "grupoendo.autodromo.app/endosan"
+  },
+  {
+    "name": "Intervia Bahia",
+    "domain": "interviakia.com.br/intervia-ba",
+    "internal_link": "viasul.autodromo.app/intervia-ba"
+  },
+  {
+    "name": "Kobe Nissan",
+    "domain": "www.kobenissan.com.br",
+    "internal_link": "kobenissan.autodromo.app/kobe-nissan"
+  },
+  {
+    "name": "Audi Center Fortaleza",
+    "domain": "audicenterfortaleza.com.br",
+    "internal_link": "pgprime.autodromo.app/audi-center-fortaleza"
+  },
+  {
+    "name": "Raquel Jeep",
+    "domain": "",
+    "internal_link": "teste-raquel.autodromo.app/raquel-jeep"
+  },
+  {
+    "name": "Dimasa Motos",
+    "domain": "dimasahonda.com.br",
+    "internal_link": "dimasa.autodromo.app/dimasa-motos"
+  },
+  {
+    "name": "Valence Kawasaki",
+    "domain": "www.valencekawasaki.com.br",
+    "internal_link": "valence.autodromo.app/valence-kawasaki"
+  },
+  {
+    "name": "Geração Ventura",
+    "domain": "www.florianopolis.geracaoadventure.com.br",
+    "internal_link": "grupo-geracao.autodromo.app/geracao-ventura"
+  },
+  {
+    "name": "Fipal Mitsubishi",
+    "domain": "fipalmit.com.br",
+    "internal_link": "fipal.autodromo.app/fipal-mitsubishi"
+  },
+  {
+    "name": "Cometa Hyundai - Rondonópolis",
+    "domain": "rondonopolis.cometahyundai.com.br",
+    "internal_link": "grupocometa.autodromo.app/cometa-hyundai-rondonopolis"
+  },
+  {
+    "name": "Auto Japan",
+    "domain": "www.autojapan.com.br",
+    "internal_link": "bdg.autodromo.app/honda"
+  },
+  {
+    "name": "Via Mondo Renault ",
+    "domain": "www.viamondorenault.com.br",
+    "internal_link": "viamondo.autodromo.app/renault-via-mondo"
+  },
+  {
+    "name": "Cometa Hyundai - Ji Paraná",
+    "domain": "jiparana.cometahyundai.com.br",
+    "internal_link": "grupocometa.autodromo.app/cometa-hyundai-ji-parana"
+  },
+  {
+    "name": "Valence Drilling",
+    "domain": "",
+    "internal_link": "valence.autodromo.app/valence-drilling"
+  },
+  {
+    "name": "Viasul Jeep - CE",
+    "domain": "viasuljeep.com.br/jeep-ce",
+    "internal_link": "viasul.autodromo.app/jeep-ce"
+  },
+  {
+    "name": "AGO - Mercedes-Benz",
+    "domain": "ago.com.br/ago-mercedes-benz",
+    "internal_link": "grupo-ago.autodromo.app/ago-mercedes-benz"
+  },
+  {
+    "name": "Fipal Jeep",
+    "domain": "",
+    "internal_link": "fipal.autodromo.app/fipal-jeep"
+  },
+  {
+    "name": "Audi Center São Luís",
+    "domain": "audicentersaoluis.com.br",
+    "internal_link": "pgprime.autodromo.app/audi-center-sao-luis"
+  },
+  {
+    "name": "SITE OFF {SEMINOVOS}",
+    "domain": "",
+    "internal_link": "grupo-geracao.autodromo.app/site-off-seminovos"
+  },
+  {
+    "name": "Rally Motors Mitsubishi",
+    "domain": "rallymotors.com.br",
+    "internal_link": "grupojcmattias.autodromo.app/mitsubishi"
+  },
+  {
+    "name": "Jangada Nissan",
+    "domain": "jangadanissan.com.br",
+    "internal_link": "carmais.autodromo.app/jangadanissan"
+  },
+  {
+    "name": "Dealer Honda Motos",
+    "domain": "autoforcehondamotos.com.br",
+    "internal_link": "testes.autodromo.app/autoforce-honda-motos"
+  },
+  {
+    "name": "Prime Caoa Chery ",
+    "domain": "primecaoachery.com.br",
+    "internal_link": "passion.autodromo.app/prime-caoa-chery"
+  },
+  {
+    "name": "MINI Autokraft",
+    "domain": "www.autokraft-mini.com.br",
+    "internal_link": "autokraft.autodromo.app/mini"
+  },
+  {
+    "name": "Mônaco Motocenter Mato Grosso",
+    "domain": "monacomotocenter.com.br/matogrosso",
+    "internal_link": "grupo-monaco.autodromo.app/matogrosso"
+  },
+  {
+    "name": "Hyundai HMB Lovat",
+    "domain": "hyundailovat.com.br",
+    "internal_link": "grupo-provence.autodromo.app/hyundai-hmb-lovat"
+  },
+  {
+    "name": "Enzo Corretora",
+    "domain": "enzocorretora.com.br",
+    "internal_link": "grupoenzo.autodromo.app/enzo-seguros"
+  },
+  {
+    "name": "New HB Barretos",
+    "domain": "www.newhb.com.br/hb-barretos",
+    "internal_link": "grupotoniello.autodromo.app/hb-barretos"
+  },
+  {
+    "name": "Dealer Renault",
+    "domain": "testes.autoforce.com/canal-renault",
+    "internal_link": "testes.autodromo.app/canal-renault"
+  },
+  {
+    "name": "Geração Yamaha",
+    "domain": "www.geracaoyamaha.com.br",
+    "internal_link": "grupo-geracao.autodromo.app/yamaha-geracao"
+  },
+  {
+    "name": "Mônaco Motocenter Amapá ",
+    "domain": "monacomotocenter.com.br/amapa",
+    "internal_link": "grupo-monaco.autodromo.app/amapa"
+  },
+  {
+    "name": "Jangada Renault",
+    "domain": "jangadarenault.com.br",
+    "internal_link": "carmais.autodromo.app/jangadarenault"
+  },
+  {
+    "name": "Sevel Veículos",
+    "domain": "sevelveiculos.com.br",
+    "internal_link": "grupo-samam.autodromo.app/sevel-veiculos"
+  },
+  {
+    "name": "Royal Enfield Belo Horizonte",
+    "domain": "www.royalenfieldbhz.com.br",
+    "internal_link": "valence.autodromo.app/valence-royal-enfield"
+  },
+  {
+    "name": "Cometa Hyundai - Sinop",
+    "domain": "sinop.cometahyundai.com.br",
+    "internal_link": "grupocometa.autodromo.app/cometa-hyundai-sinop"
+  },
+  {
+    "name": "Viasul Jeep - PE",
+    "domain": "viasuljeep.com.br/jeep-pe",
+    "internal_link": "viasul.autodromo.app/jeep-pe"
+  },
+  {
+    "name": "Audi Natal",
+    "domain": "audicenternatal.com.br",
+    "internal_link": "pgprime.autodromo.app/audinatal"
+  },
+  {
+    "name": "Triumph Rio",
+    "domain": "triumphrio.com.br",
+    "internal_link": "autokraft.autodromo.app/triumph"
+  },
+  {
+    "name": "Cometa Motocenter - São Gabriel da Cachoeira",
+    "domain": "saogabriel.cometahondamotocenter.com.br",
+    "internal_link": "grupocometa.autodromo.app/cometa-motocenter-sao-gabriel-da-cachoeira"
+  },
+  {
+    "name": "Serigy Veículos",
+    "domain": "serigyveiculos.com.br",
+    "internal_link": "grupo-samam.autodromo.app/serigy-veiculos"
+  },
+  {
+    "name": "Mônaco Motocenter Pará",
+    "domain": "monacomotocenter.com.br/para",
+    "internal_link": "grupo-monaco.autodromo.app/para"
+  },
+  {
+    "name": "Audi João Pessoa",
+    "domain": "audicenterjoaopessoa.com.br",
+    "internal_link": "pgprime.autodromo.app/audi-jp"
+  },
+  {
+    "name": "Viasul Jeep - BA",
+    "domain": "viasuljeep.com.br/jeep-ba",
+    "internal_link": "viasul.autodromo.app/jeep-ba"
+  },
+  {
+    "name": "Valence Dafra",
+    "domain": "www.valencedafra.com.br",
+    "internal_link": "valence.autodromo.app/valence-dafra"
+  },
+  {
+    "name": "Geração Hyundai HMB ",
+    "domain": "www.geracaohyundaihmb.com.br",
+    "internal_link": "grupo-geracao.autodromo.app/hyundai-hmb-geracao"
+  },
+  {
+    "name": "New HB Franca",
+    "domain": "www.newhb.com.br/hb-franca",
+    "internal_link": "grupotoniello.autodromo.app/hb-franca"
+  },
+  {
+    "name": "Eurovia Renault - BA",
+    "domain": "eurovia.com.br/renault-ba",
+    "internal_link": "viasul.autodromo.app/renault-ba"
+  },
+  {
+    "name": "PG Prime - Ducati",
+    "domain": "ducatijoaopessoa.com.br",
+    "internal_link": "pgprime.autodromo.app/ducati"
+  },
+  {
+    "name": "Hyundai ",
+    "domain": "",
+    "internal_link": "testes.autodromo.app/hyundai-caoa"
+  },
+  {
+    "name": "Cometa Motocenter - Tefé",
+    "domain": "tefe.cometahondamotocenter.com.br",
+    "internal_link": "grupocometa.autodromo.app/cometa-motocenter-tefe"
+  },
+  {
+    "name": "Geração Caoa Chery ",
+    "domain": "www.geracaochery.com.br",
+    "internal_link": "grupo-geracao.autodromo.app/geracao-caoa-chery"
+  },
+  {
+    "name": "Ducati Belo Horizonte",
+    "domain": "www.valenceducati.com.br",
+    "internal_link": "valence.autodromo.app/valence-ducati"
+  },
+  {
+    "name": "Cuidar AutoForce",
+    "domain": "",
+    "internal_link": "testes-cuidar.autodromo.app/autoforce-cuidar"
+  },
+  {
+    "name": "New HB Sertãozinho",
+    "domain": "www.newhb.com.br/hb-sertaozinho",
+    "internal_link": "grupotoniello.autodromo.app/hb-sertaozinho"
+  },
+  {
+    "name": "Valence KTM",
+    "domain": "www.valencektm.com.br",
+    "internal_link": "valence.autodromo.app/valence-ktm"
+  },
+  {
+    "name": "FIAT Pedro",
+    "domain": "",
+    "internal_link": "testes-cuidar.autodromo.app/fiat-pedro"
+  },
+  {
+    "name": "Eurovia Renault - PE",
+    "domain": "eurovia.com.br/renault-pe",
+    "internal_link": "viasul.autodromo.app/renault-pe"
+  },
+  {
+    "name": "Dealer VW",
+    "domain": "",
+    "internal_link": "testes.autodromo.app/dealer-vw"
+  },
+  {
+    "name": "Novaluz Honda",
+    "domain": "hondanovaluz.com.br",
+    "internal_link": "carmais.autodromo.app/hondanovaluz"
+  },
+  {
+    "name": "Cometa Motocenter - Ouro Preto do Oeste",
+    "domain": "ouropreto.cometahondamotocenter.com.br",
+    "internal_link": "grupocometa.autodromo.app/cometa-motocenter-ouro-preto-do-oeste"
+  },
+  {
+    "name": "New HB Araraquara",
+    "domain": "www.newhb.com.br/hb-araraquara",
+    "internal_link": "grupotoniello.autodromo.app/hb-araraquara"
+  },
+  {
+    "name": "Kia Plena",
+    "domain": "plenakia.com.br",
+    "internal_link": "passion.autodromo.app/kia-plena"
+  },
+  {
+    "name": "BMW PB",
+    "domain": "pgprimebmw.com.br/bmw-pb",
+    "internal_link": "pgprime.autodromo.app/bmw-pb"
+  },
+  {
+    "name": "Ford Arthur",
+    "domain": "",
+    "internal_link": "testes-cuidar.autodromo.app/ford-arthur"
+  },
+  {
+    "name": "Cometa Motocenter - Paranaíba",
+    "domain": "paranaiba.cometahondamotocenter.com.br",
+    "internal_link": "grupocometa.autodromo.app/cometa-motocenter-paranaiba"
+  },
+  {
+    "name": "Valence Jeep",
+    "domain": "www.valencejeep.com.br",
+    "internal_link": "valence.autodromo.app/valence-jeep"
+  },
+  {
+    "name": "Dealer Kia",
+    "domain": "www.autoforcekia.com.br",
+    "internal_link": "testes.autodromo.app/autoforce-kia"
+  },
+  {
+    "name": "New HB Ribeirão Preto",
+    "domain": "www.newhb.com.br/hb-ribeirao",
+    "internal_link": "grupotoniello.autodromo.app/hb-ribeirao"
+  },
+  {
+    "name": "PG Prime - Volvo Natal",
+    "domain": "pgprimevolvo.com.br/volvo-natal",
+    "internal_link": "pgprime.autodromo.app/volvo-natal"
+  },
+  {
+    "name": "Viasul Fiat - CE",
+    "domain": "viasul.com.br/fiat-ce",
+    "internal_link": "viasul.autodromo.app/fiat-ce"
+  },
+  {
+    "name": "CDA FIAT",
+    "domain": "cdafiat.com.br",
+    "internal_link": "carmais.autodromo.app/cdafiat"
+  },
+  {
+    "name": "PG Prime - Volvo João Pessoa",
+    "domain": "pgprimevolvo.com.br/volvo-jp",
+    "internal_link": "pgprime.autodromo.app/volvo-jp"
+  },
+  {
+    "name": "Honda NossaMoto",
+    "domain": "nossamoto.com.br",
+    "internal_link": "carmais.autodromo.app/hondanossamoto"
+  },
+  {
+    "name": "Cometa Motocenter - Belém",
+    "domain": "belem.cometahondamotocenter.com.br",
+    "internal_link": "grupocometa.autodromo.app/cometa-motocenter-belem"
+  },
+  {
+    "name": "(Expandir) AutoForce Audi",
+    "domain": "",
+    "internal_link": "testes.autodromo.app/autoforce-audi"
+  },
+  {
+    "name": "Dealer Chevrolet",
+    "domain": "autoforcechevrolet.com.br",
+    "internal_link": "testes.autodromo.app/expandir-chevrolet"
+  },
+  {
+    "name": "Brilhauto Peugeot",
+    "domain": "peugeotbrilhauto.com.br",
+    "internal_link": "euroamericas.autodromo.app/brilhauto-peugeot"
+  },
+  {
+    "name": "Kampai Toyota",
+    "domain": "kampai.com.br",
+    "internal_link": "grupoenzo.autodromo.app/kampai-toyota-campo-grande"
+  },
+  {
+    "name": "Miso",
+    "domain": "misomotors.com.br",
+    "internal_link": "ebd.autodromo.app/miso"
+  },
+  {
+    "name": "Audi Center Rio Preto",
+    "domain": "audicenterriopreto.com.br",
+    "internal_link": "grupojcmattias.autodromo.app/audi"
+  },
+  {
+    "name": "PG Prime - BRP",
+    "domain": "pgprime.com.br/brp",
+    "internal_link": "pgprime.autodromo.app/brp"
+  },
+  {
+    "name": "AutoForce Site",
+    "domain": "autodromo.app",
+    "internal_link": "testes.autodromo.app/autoforce-site"
+  },
+  {
+    "name": "Thai",
+    "domain": "www.thaiveiculos.com.br",
+    "internal_link": "ebd.autodromo.app/thai-toyota"
+  },
+  {
+    "name": "Cometa Motocenter - Campo Grande",
+    "domain": "campogrande.cometahondamotocenter.com.br",
+    "internal_link": "grupocometa.autodromo.app/cometa-motocenter-campo-grande"
+  },
+  {
+    "name": "Cometa Motocenter - Ananindeua",
+    "domain": "ananindeua.cometahondamotocenter.com.br",
+    "internal_link": "grupocometa.autodromo.app/cometa-motocenter-ananindeua"
+  },
+  {
+    "name": "Cometa Motocenter - Manaus",
+    "domain": "manaus.cometahondamotocenter.com.br",
+    "internal_link": "grupocometa.autodromo.app/cometa-motocenter-manaus"
+  },
+  {
+    "name": "Intervia Pernambuco",
+    "domain": "interviakia.com.br/intervia-pe",
+    "internal_link": "viasul.autodromo.app/intervia-pe"
+  },
+  {
+    "name": "Guará Renault ",
+    "domain": "guararenault.com.br",
+    "internal_link": "grupoenzo.autodromo.app/renault-campogrande"
+  },
+  {
+    "name": "McLarty Maia Toyota",
+    "domain": "toyotamclartymaia.com.br",
+    "internal_link": "caltabiano.autodromo.app/toyota"
+  },
+  {
+    "name": "Ulsan Vilhena",
+    "domain": "ulsanhyundai.com.br/ulsan-vilhena",
+    "internal_link": "raviera.autodromo.app/ulsan-vilhena"
+  },
+  {
+    "name": "Dealer Toyota",
+    "domain": "testes.autoforce.com.br/autoforce-toyota",
+    "internal_link": "testes.autodromo.app/autoforce-toyota"
+  },
+  {
+    "name": "Ulsan Rio Branco",
+    "domain": "ulsanhyundai.com.br/ulsan-rio-branco",
+    "internal_link": "raviera.autodromo.app/ulsan-rio-branco"
+  },
+  {
+    "name": "Cometa Motocenter - Pontes e Lacerda",
+    "domain": "ponteselacerda.cometahondamotocenter.com.br",
+    "internal_link": "grupocometa.autodromo.app/cometa-motocenter-pontes-e-lacerda"
+  },
+  {
+    "name": "Viasul Fiat - PE",
+    "domain": "viasul.com.br/fiat-pe",
+    "internal_link": "viasul.autodromo.app/fiat-pe"
+  },
+  {
+    "name": "(Expandir) Auto Chery",
+    "domain": "",
+    "internal_link": "testes.autodromo.app/autochery"
+  },
+  {
+    "name": "MINI McLarty Maia",
+    "domain": "minimclartymaia.com.br",
+    "internal_link": "caltabiano.autodromo.app/mini"
+  },
+  {
+    "name": "PG Prime - Triumph",
+    "domain": "pgprime.com.br/site-triumph",
+    "internal_link": "pgprime.autodromo.app/site-triumph"
+  },
+  {
+    "name": "Ulsan Campo Grande",
+    "domain": "www.ulsanhyundai.com.br/ulsan-campo-grande",
+    "internal_link": "raviera.autodromo.app/ulsan-campo-grande"
+  },
+  {
+    "name": "Dealer Hyundai",
+    "domain": "",
+    "internal_link": "testes.autodromo.app/autoforce-hyundai"
+  },
+  {
+    "name": "Cometa Motocenter - Ji - Paraná ",
+    "domain": "jiparana.cometahondamotocenter.com.br",
+    "internal_link": "grupocometa.autodromo.app/cometa-motocenter-ji-parana"
+  },
+  {
+    "name": "(Expandir) AutoForce Volkswagen",
+    "domain": "wwww.volks.com",
+    "internal_link": "testes.autodromo.app/canal-vw"
+  },
+  {
+    "name": "Eurovia Nissan - BA",
+    "domain": "eurovianissan.com.br/nissan-ba",
+    "internal_link": "viasul.autodromo.app/nissan-ba"
+  },
+  {
+    "name": "Granvia",
+    "domain": "",
+    "internal_link": "viasul.autodromo.app/granvia-ford"
+  },
+  {
+    "name": "Cometa Motocenter - Colíder",
+    "domain": "colider.cometahondamotocenter.com.br",
+    "internal_link": "grupocometa.autodromo.app/cometa-motocenter-colider"
+  },
+  {
+    "name": "Via Japan",
+    "domain": "viajapan.com.br",
+    "internal_link": "grupoenzo.autodromo.app/toyota-presidente-prudente"
+  },
+  {
+    "name": "Dealer Mitsubishi",
+    "domain": "",
+    "internal_link": "testes.autodromo.app/autoforce-mitsubishi"
+  },
+  {
+    "name": "Raviera Mini",
+    "domain": "miniraviera.com.br",
+    "internal_link": "raviera.autodromo.app/raviera-mini"
+  },
+  {
+    "name": "Cometa motocenter - Cáceres",
+    "domain": "caceres.cometahondamotocenter.com.br",
+    "internal_link": "grupocometa.autodromo.app/cometa-motocenter-caceres"
+  },
+  {
+    "name": "Gmais ",
+    "domain": "www.gmaischevrolet.com.br",
+    "internal_link": "euroamericas.autodromo.app/gmais"
+  },
+  {
+    "name": "Eurovia Nissan - PE",
+    "domain": "eurovianissan.com.br/nissan-pe",
+    "internal_link": "viasul.autodromo.app/nissan-pe"
+  },
+  {
+    "name": "AutoForce - Teste de Base",
+    "domain": "testes.autoforce.com.br/teste-base",
+    "internal_link": "testes.autodromo.app/autoforce-teste-de-base"
+  },
+  {
+    "name": "LuizAutos",
+    "domain": "",
+    "internal_link": "autoforce-academy.autodromo.app/luizautos"
+  },
+  {
+    "name": "Cometa motocenter - Alta Floresta",
+    "domain": "altafloresta.cometahondamotocenter.com.br",
+    "internal_link": "grupocometa.autodromo.app/cometa-motocenter-alta-floresta"
+  },
+  {
+    "name": "Américas Barra ",
+    "domain": "chevroletamericas.com.br",
+    "internal_link": "euroamericas.autodromo.app/americas-barra"
+  },
+  {
+    "name": "Enzo Volvo",
+    "domain": "enzovolvo.com.br",
+    "internal_link": "grupoenzo.autodromo.app/enzo-volvo-dfc09962-3059-4825-a61a-fc998ecf49c9"
+  },
+  {
+    "name": "Dealer Yamaha",
+    "domain": "",
+    "internal_link": "testes.autodromo.app/autoforce-yamaha"
+  },
+  {
+    "name": "Cometa Motocenter - Tabatinga",
+    "domain": "tabatinga.cometahondamotocenter.com.br",
+    "internal_link": "grupocometa.autodromo.app/cometa-motocenter-tabatinga"
+  },
+  {
+    "name": "Multiteste",
+    "domain": "multiteste.test.br",
+    "internal_link": "testes.autodromo.app/multiteste"
+  },
+  {
+    "name": "Dealer Honda",
+    "domain": "",
+    "internal_link": "testes.autodromo.app/autoforce-honda"
+  },
+  {
+    "name": "Nação Chevrolet",
+    "domain": "nacaochevrolet.com.br",
+    "internal_link": "grupoenzo.autodromo.app/nacaochevro"
+  },
+  {
+    "name": " Cometa Volkswagen ",
+    "domain": "cometavolkswagen.com.br",
+    "internal_link": "grupocometa.autodromo.app/cometa-volkswagen"
+  },
+  {
+    "name": "Autoforce Raviera Atendimento",
+    "domain": "autoforceravieraatendimento.com.br",
+    "internal_link": "testes.autodromo.app/autoforce-raviera-atendimento"
+  },
+  {
+    "name": "AutoForce GM",
+    "domain": "",
+    "internal_link": "testes.autodromo.app/autoforce-gm"
+  },
+  {
+    "name": "AutoForce Teste Operações",
+    "domain": "fiatteste.com",
+    "internal_link": "testes.autodromo.app/fiat-test"
+  },
+  {
+    "name": "Dealer Ford",
+    "domain": "",
+    "internal_link": "testes.autodromo.app/autoforce-ford"
+  },
+  {
+    "name": "Original VW ",
+    "domain": "www.originalvw.com.br",
+    "internal_link": "grupo-green.autodromo.app/original-vw"
+  },
+  {
+    "name": "Original BYD São Paulo",
+    "domain": "www.originalbyd.com.br/byd-sao-paulo",
+    "internal_link": "grupo-green.autodromo.app/byd-sao-paulo"
+  },
+  {
+    "name": "SBR Blindados",
+    "domain": "sbrblindados.com.br",
+    "internal_link": "grupo-green.autodromo.app/sbr-blindados"
+  },
+  {
+    "name": "Pontanegra Fiat",
+    "domain": "pontanegra.com.br",
+    "internal_link": "pontanegra.autodromo.app/pontanegra"
+  }
+]

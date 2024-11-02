@@ -1,0 +1,152 @@
+[
+  {
+      "name": "Citroën Notre Dame",
+      "domain": "www.citroennotredame.com.br",
+      "internal_link": "jeep-bicudo.autodromo.app/citroen-notre-dame"
+  },
+  {
+      "name": "Mont Blanc",
+      "domain": "www.montblanccitroen.com.br",
+      "internal_link": "grupo-gambatto.autodromo.app/mont-blanc-citroen"
+  },
+  {
+    "name": "Duna",
+    "domain": "www.dunacitroen.com.br",
+    "internal_link": "duna.autodromo.app/duna-citroen"
+  },
+  {
+    "name": "Automax",
+    "domain": "automaxcitroen.com.br",
+    "internal_link": "automax-citroen.autodromo.app/automax-citroen"
+  },
+  {
+    "name": "Dealer Citroen",
+    "domain": "",
+    "internal_link": "autoforce-academy.autodromo.app/citroen"
+  },
+  {
+    "name": "Citroen Gama - Maceió",
+    "domain": "gamacitroen.com.br/al",
+    "internal_link": "grupo-gama.autodromo.app/al"
+  },
+  {
+    "name": "Citroën Grandourados",
+    "domain": "www.citroen.grandourados.com.br",
+    "internal_link": "grupo-grandourados.autodromo.app/grandourados-citroen"
+  },
+  {
+    "name": "Cevema Citroën",
+    "domain": "cevemacitroen.com.br",
+    "internal_link": "cevema.autodromo.app/cevema-citroen"
+  },
+  {
+    "name": "Lumière",
+    "domain": "lumierecitroen.com.br",
+    "internal_link": "grupo-lumiere.autodromo.app/lumiere-citroen"
+  },
+  {
+    "name": "La Fontaine",
+    "domain": "citroen.lafontaineveiculos.com.br",
+    "internal_link": "la-fontaine.autodromo.app/la-fontaine-6e5c35af-eacb-48a5-b098-1d24777056e1"
+  },
+  {
+    "name": "TREVISA ",
+    "domain": "trevisacitroen.com.br",
+    "internal_link": "grupotrevisa.autodromo.app/trevisa-citroen"
+  },
+  {
+    "name": "SAPHIR CITROËN",
+    "domain": "www.saphircitroen.com.br",
+    "internal_link": "grupoitadil.autodromo.app/saphir-citroen"
+  },
+  {
+    "name": "Marajó",
+    "domain": "www.citroenmarajo.com.br",
+    "internal_link": "marajo.autodromo.app/citroen-marajo"
+  },
+  {
+    "name": "Citroën Saint Germain",
+    "domain": "citroen.psgermain.com.br",
+    "internal_link": "grupo-dijon.autodromo.app/citroen-saint-germain"
+  },
+  {
+    "name": "Toriba",
+    "domain": "www.toribacitroen.com.br",
+    "internal_link": "grupo-toriba.autodromo.app/toriba-citroen"
+  },
+  {
+    "name": "Dealer Citröen DDM",
+    "domain": "",
+    "internal_link": "testes.autodromo.app/dealer-teste-citroen"
+  },
+  {
+    "name": "Francesa Citroen",
+    "domain": "francesaveiculos.com.br/citroen",
+    "internal_link": "grupo-francesa.autodromo.app/citroen"
+  },
+  {
+    "name": "Breitkopf",
+    "domain": "citroen.breitkopf.com.br",
+    "internal_link": "breitkopf.autodromo.app/breitkopf"
+  },
+  {
+    "name": "SENA",
+    "domain": "citroensena.com.br",
+    "internal_link": "fiat-mvc.autodromo.app/citroen"
+  },
+  {
+    "name": "Cordial ",
+    "domain": "cordialcitroen.com.br",
+    "internal_link": "grupo-cordial.autodromo.app/cordial-citroen"
+  },
+  {
+    "name": "Citroen Gama - Aracaju",
+    "domain": "gamacitroen.com.br/se",
+    "internal_link": "grupo-gama.autodromo.app/se"
+  },
+  {
+    "name": "Eiffel",
+    "domain": "www.eiffelcitroen.com.br",
+    "internal_link": "eiffel.autodromo.app/eiffel-citroen"
+  },
+  {
+    "name": "Monza ",
+    "domain": "grupomonza.com.br/citroen-monza",
+    "internal_link": "grupo-monza.autodromo.app/citroen-monza"
+  },
+  {
+    "name": "Citavel",
+    "domain": "citavel.com.br/citroen",
+    "internal_link": "grupo-monza.autodromo.app/citroen"
+  },
+  {
+    "name": "EuroFrance Citröen",
+    "domain": "citroeneurofrance.com.br",
+    "internal_link": "euroamericas.autodromo.app/eurofrance-citroen"
+  },
+  {
+    "name": "Brilhauto Citröen",
+    "domain": "citroenbrilhauto.com.br",
+    "internal_link": "euroamericas.autodromo.app/brilhauto-citroen"
+  },
+  {
+    "name": "Provence Citroën",
+    "domain": "www.citroenprovence.com.br",
+    "internal_link": "grupo-provence.autodromo.app/provence-citroen"
+  },
+  {
+    "name": "Passion",
+    "domain": "www.citroenpassion.com.br",
+    "internal_link": "passion.autodromo.app/citroen-passion"
+  },
+  {
+    "name": "Original Citroën São Paulo",
+    "domain": "www.originalcitroen.com.br/citroen-sao-paulo",
+    "internal_link": "grupo-green.autodromo.app/citroen-sao-paulo"
+  },
+  {
+    "name": "Original Citroën Maranhão",
+    "domain": "www.originalcitroen.com.br/citroen-maranhao",
+    "internal_link": "grupo-green.autodromo.app/citroen-maranhao"
+  }
+]

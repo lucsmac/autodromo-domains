@@ -1,0 +1,207 @@
+[
+  {
+    "name": "Toyota Inter Japan RJ",
+    "domain":"toyotarj.itavema.com.br",
+    "internal_link":"grupoitavema.autodromo.app/toyotarj-itavema"
+  },
+  {
+    "name": "IMOTORS HYUNDAI",
+    "domain":"www.himotors.com.br",
+    "internal_link":"imotors.autodromo.app/imotors-hyundai"
+  },
+  {
+    "name": "JU VEÍCULOS - HYUNDAI",
+    "domain":"",
+    "internal_link":"testes-cuidar.autodromo.app/juveiculos"
+  },
+  {
+    "name": "Raviera BYD Dourados",
+    "domain":"ravierabyd.com.br/raviera-byd-dourados",
+    "internal_link":"raviera.autodromo.app/raviera-byd-dourados"
+  },
+  {
+    "name": "Guiauto Chevrolet",
+    "domain":"guiauto.com.br",
+    "internal_link":"guiauto.autodromo.app/guiauto-chevrolet"
+  },
+  {
+    "name": "Fiat Phipasa",
+    "domain":"fiat.phipasa.com.br",
+    "internal_link":"phipasa.autodromo.app/phipasa-fiat"
+  },
+  {
+    "name": "Showroom - Genius",
+    "domain":"",
+    "internal_link":"autoforce-academy.autodromo.app/showroom-genius"
+  },
+  {
+    "name": "Bajaj Vega",
+    "domain":"vegabajaj.com.br",
+    "internal_link":"grupo-vega.autodromo.app/bajaj-vega"
+  },
+  {
+    "name": "Expoente toyota",
+    "domain":"www.expoentetoyota.com.br",
+    "internal_link":"expoentetoyota.autodromo.app/expoente-toyota"
+  },
+  {
+    "name": "Nogueira Lins VW",
+    "domain":"nogueiralins.com.br",
+    "internal_link":"nogueira-lins.autodromo.app/nogueira-lins-vw"
+  },
+  {
+    "name": "E-Lume Fever",
+    "domain":"www.e-lume.com.br",
+    "internal_link":"grupo-lumiere.autodromo.app/e-lume-lumiere"
+  },
+  {
+    "name": "Hyundai Itavema Motors",
+    "domain":"hyundai.itavema.com.br",
+    "internal_link":"grupoitavema.autodromo.app/hyundai-itavema"
+  },
+  {
+    "name": "AutoPilot - Showroom Performance (NÃO ALTERE)",
+    "domain":"",
+    "internal_link":"autoforce-academy.autodromo.app/autopilot-showroom-performance-nao-altere"
+  },
+  {
+    "name": "Teste SLP Ativação e Retenção",
+    "domain":"testeslp.com",
+    "internal_link":"autoforce-academy.autodromo.app/teste-slp-ativacao-e-retencao"
+  },
+  {
+    "name": "Showroom Honda - Genius",
+    "domain":"",
+    "internal_link":"autoforce-academy.autodromo.app/showroom-honda-teste"
+  },
+  {
+    "name": "BYD Itavema",
+    "domain":"byd.itavema.com.br",
+    "internal_link":"grupoitavema.autodromo.app/byd-itavema"
+  },
+  {
+    "name": "Kawasaki Autokraft",
+    "domain":"kawasaki-autokraft.com.br",
+    "internal_link":"autokraft.autodromo.app/kawasaki-autokraft"
+  },
+  {
+    "name": "Dealer BYD",
+    "domain":"dealerbyd",
+    "internal_link":"testes.autodromo.app/dealer-byd"
+  },
+  {
+    "name": "Honda Hit",
+    "domain":"www.hithonda.com.br",
+    "internal_link":"honda-hit.autodromo.app/honda-hit-site"
+  },
+  {
+    "name": "Turbo Dealer",
+    "domain":"",
+    "internal_link":"testes.autodromo.app/turbo-dealer"
+  },
+  {
+    "name": "Fever Prime",
+    "domain":"feverprime.com.br",
+    "internal_link":"passion.autodromo.app/feverprime-com"
+  },
+  {
+    "name": "BYD Itavema",
+    "domain":"",
+    "internal_link":"teste-nitro-renan.autodromo.app/byd"
+  },
+  {
+    "name": "showroom juliana",
+    "domain":"",
+    "internal_link":"autoforce-academy.autodromo.app/showroom-teste-juliana"
+  },
+  {
+    "name": "Chevrolet-Teste",
+    "domain":"chevrolet-teste.com.br",
+    "internal_link":"autoforce-academy.autodromo.app/chevrolet-teste"
+  },
+  {
+    "name": "Maxvel Tatui",
+    "domain":"maxveltatui.com.br",
+    "internal_link":"maxvel-renault.autodromo.app/maxvel"
+  },
+  {
+    "name": "Layout 3.0 TURBO",
+    "domain":"",
+    "internal_link":"automacao.autodromo.app/layout-3-0-turbo"
+  },
+  {
+    "name": "Fiat Showroom Performance ",
+    "domain":"",
+    "internal_link":"autoforce-academy.autodromo.app/fiat-showroom-performance"
+  },
+  {
+    "name": "Raviera BYD Rio Branco",
+    "domain":"ravierabyd.com.br/raviera-byd-riobranco",
+    "internal_link":"raviera.autodromo.app/raviera-byd-riobranco"
+  },
+  {
+    "name": "Nissan [DESATIVADO]",
+    "domain":"",
+    "internal_link":"olx-leadcollector.autodromo.app/nissan-78aae293-c9ca-499a-9997-078d9e5ddc33"
+  },
+  {
+    "name": "Fiat Itavema",
+    "domain":"fiat.itavema.com.br",
+    "internal_link":"grupoitavema.autodromo.app/fiat-itavema"
+  },
+  {
+    "name": "Ofertas Viasul Jeep Pernambuco",
+    "domain":"ofertasjeep.viasuljeep.com.br",
+    "internal_link":"viasul.autodromo.app/pernambuco"
+  },
+  {
+    "name": "Diauto Volkswagen",
+    "domain":"www.diauto.com.br",
+    "internal_link":"diauto-vw.autodromo.app/diauto-volkswagen"
+  },
+  {
+    "name": "Showroom - Marca Genérica",
+    "domain":"",
+    "internal_link":"autoforce-academy.autodromo.app/showroom-marca-generica"
+  },
+  {
+    "name": "Basari Caoa Chery",
+    "domain":"basariveiculos.com.br",
+    "internal_link":"thema.autodromo.app/basari-caoa-chery"
+  },
+  {
+    "name": "Mol Veículos",
+    "domain":"molvw.com.br",
+    "internal_link":"molvw.autodromo.app/mol-veiculos"
+  },
+  {
+    "name": "WTOTAL Volkswagem ",
+    "domain":"www.wtotalvw.com.br",
+    "internal_link":"euroamericas.autodromo.app/wtotal-volkswagem"
+  },
+  {
+    "name": "Renault Itavema France",
+    "domain":"renault.itavema.com.br",
+    "internal_link":"grupoitavema.autodromo.app/renault-itavema"
+  },
+  {
+    "name": "Redenção Nissan",
+    "domain":"www.redencaonissan.com.br",
+    "internal_link":"redencao.autodromo.app/redencao-nissan"
+  },
+  {
+    "name": "Toyota Inter Japan SP",
+    "domain":"toyotasp.itavema.com.br",
+    "internal_link":"grupoitavema.autodromo.app/toyota-inter-japan-sp"
+  },
+  {
+    "name": "EuroFrance Peugeot",
+    "domain":"peugeoteurofrance.com.br",
+    "internal_link":"euroamericas.autodromo.app/eurofrance-peugeot"
+  },
+  {
+    "name": "Original BYD Maranhão",
+    "domain":"www.originalbyd.com.br/byd-maranhao",
+    "internal_link":"grupo-green.autodromo.app/byd-maranhao"
+  }
+]

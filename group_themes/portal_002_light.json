@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Grupo Leauto",
+    "domain": "grupoleauto.com.br",
+    "internal_link": "grupoleauto.autodromo.app/grupo-leauto"
+  },
+  {
+    "name": "Portal de Grupo Genius",
+    "domain": "",
+    "internal_link": "autoforce-academy.autodromo.app/portal-de-grupo-genius"
+  },
+  {
+    "name": "Grupo de Teste",
+    "domain": "www.grupotest.com",
+    "internal_link": "testes.autodromo.app/grupo-de-teste"
+  },
+  {
+    "name": "Portal de Seminovos",
+    "domain": "seminovos-teste-ian",
+    "internal_link": "teste-ian.autodromo.app/portal-de-seminovos"
+  }
+]

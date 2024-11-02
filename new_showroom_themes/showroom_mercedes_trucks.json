@@ -1,0 +1,112 @@
+[
+  {
+      "name": "Comveima",
+      "domain": "comveima.com.br",
+      "internal_link": "comveima.autodromo.app/comveima"
+  },
+  {
+    "name": "Jaguaribe Diesel",
+    "domain": "showroom.jaguaribediesel.com.br",
+    "internal_link": "jaguaribe-diesel-conta.autodromo.app/jaguaribe-diesel"
+  },
+  {
+    "name": "Savar Mercedes-Benz",
+    "domain": "www.savarveiculos.com.br",
+    "internal_link": "savar.autodromo.app/savar-mercedes-benz"
+  },
+  {
+    "name": "Irmãos Davoli",
+    "domain": "www.idavoli.com.br",
+    "internal_link": "conta-irmaos-davoli.autodromo.app/irmaos-davoli"
+  },
+  {
+    "name": "Ceará Diesel Mercedes Benz",
+    "domain": "cearadiesel.com.br",
+    "internal_link": "cearadieselmb.autodromo.app/ceara-diesel-mercedes-benz"
+  },
+  {
+    "name": "Rodobens Mercedes",
+    "domain": "automoveismercedesbenz.rodobens.com.br",
+    "internal_link": "rodobens.autodromo.app/rodobens-mercedes"
+  },
+  {
+    "name": "Acrediesel ",
+    "domain": "acrediesel.com.br",
+    "internal_link": "raviera.autodromo.app/acrediesel"
+  },
+  {
+    "name": "Minasmáquinas Mercedes-Benz",
+    "domain": "www.minasmaquinas.com.br",
+    "internal_link": "grupo-minasmaquinas.autodromo.app/minasmaquinas-mercedes-benz"
+  },
+  {
+    "name": "Renault Leauto",
+    "domain": "renault.grupoleauto.com.br/",
+    "internal_link": "grupoleauto.autodromo.app/renault"
+  },
+  {
+    "name": "Mercedes-Benz Genius",
+    "domain": "",
+    "internal_link": "autoforce-academy.autodromo.app/mercedes-benz-genius"
+  },
+  {
+    "name": "Blu Star",
+    "domain": "www.blustar.com.br",
+    "internal_link": "blustarmercedes.autodromo.app/blu-star"
+  },
+  {
+    "name": "Aoki Mercedes-Benz",
+    "domain": "www.aokimb.com.br",
+    "internal_link": "conta-aoki.autodromo.app/aoki-mercedes-benz"
+  },
+  {
+    "name": "Enzo Caminhões",
+    "domain": "",
+    "internal_link": "autoforce-academy.autodromo.app/enzo-mercedes-caminhoes"
+  },
+  {
+    "name": "Cosmar Veículos",
+    "domain": "www.cosmar.com.br",
+    "internal_link": "cosmar.autodromo.app/cosmar-veiculos"
+  },
+  {
+    "name": "Mercedes-Benz",
+    "domain": "showroommercedes-benz.com.br",
+    "internal_link": "mbbras.autodromo.app/mbbras"
+  },
+  {
+    "name": "Mecasul - Mercedes-Benz",
+    "domain": "www.mecasul.com.br",
+    "internal_link": "mecasul-mb.autodromo.app/showroom-mecasul"
+  },
+  {
+    "name": "Dealer Mercedes",
+    "domain": "dealermb",
+    "internal_link": "testes.autodromo.app/dealer-mercedes"
+  },
+  {
+    "name": "Dealer Mercedes Caminhões ",
+    "domain": "autoforcemercedesc.com.br",
+    "internal_link": "testes.autodromo.app/expandir-mercedes-caminhoes"
+  },
+  {
+    "name": "Europamotors Mercedes-Benz",
+    "domain": "europamotorsmercedes.com.br",
+    "internal_link": "europamotors.autodromo.app/europamotors-mercedes-benz"
+  },
+  {
+    "name": "De Nigris",
+    "domain": "denigris.com.br",
+    "internal_link": "europamotors.autodromo.app/de-nigris"
+  },
+  {
+    "name": "Enzo Caminhões",
+    "domain": "enzocaminhoes.com.br",
+    "internal_link": "grupoenzo.autodromo.app/enzo-mercedes-caminhoes"
+  },
+  {
+    "name": "Mercedes Teste",
+    "domain": "mercedesteste.com",
+    "internal_link": "autoforce-academy.autodromo.app/mercedes-teste"
+  }
+]

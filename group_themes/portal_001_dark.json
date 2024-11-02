@@ -1,0 +1,167 @@
+[
+  {
+    "name": "Grupo Teste Hero",
+    "domain":"",
+    "internal_link": "testes.autodromo.app/grupo-teste-hero"
+  },
+  {
+    "name": "Grupo Autocar",
+    "domain":"",
+    "internal_link": "contatestejuliana.autodromo.app/grupo-autocar-18e390fc-b0f0-4b93-87d5-0e7bba3e85e5"
+  },
+  {
+    "name": "Teste Portal Slug Seminovos",
+    "domain":"",
+    "internal_link": "autoforce-academy.autodromo.app/teste-portal-slug-seminovos"
+  },
+  {
+    "name": "teste 2",
+    "domain":"",
+    "internal_link": "modelo.autodromo.app/teste-2"
+  },
+  {
+    "name": "Grupo AGO",
+    "domain":"ago.com.br",
+    "internal_link": "grupo-ago.autodromo.app/grupo-ago"
+  },
+  {
+    "name": "Grupo Teste Hero",
+    "domain":"grupo-teste-hero.com.br",
+    "internal_link": "autoforce-academy.autodromo.app/grupo-teste-hero"
+  },
+  {
+    "name": "Grupo Soma",
+    "domain":"www.somaautomoveis.com",
+    "internal_link": "soma-veiculos.autodromo.app/grupo-soma"
+  },
+  {
+    "name": "Grupo Itavema",
+    "domain":"itavema.com.br",
+    "internal_link": "grupoitavema.autodromo.app/grupo-itavema"
+  },
+  {
+    "name": "Euroville",
+    "domain":"eurovillebmw.com.br",
+    "internal_link": "euroville.autodromo.app/eurovillebmwmini"
+  },
+  {
+    "name": "Autokraft BMW",
+    "domain":"autokraft-bmw.com.br",
+    "internal_link": "autokraft.autodromo.app/autokraft"
+  },
+  {
+    "name": "PG Prime Volvo",
+    "domain":"pgprimevolvo.com.br",
+    "internal_link": "pgprime.autodromo.app/pgvolvo"
+  },
+  {
+    "name": "Grupo Geração",
+    "domain":"portalgeracao.com.br",
+    "internal_link": "grupo-geracao.autodromo.app/grupo-geracao"
+  },
+  {
+    "name": "Portal de Grupo Teste",
+    "domain":"",
+    "internal_link": "autoforce-academy.autodromo.app/portal-de-grupo"
+  },
+  {
+    "name": "Carmais Fiat",
+    "domain":"",
+    "internal_link": "carmais.autodromo.app/carmaisfiat"
+  },
+  {
+    "name": "BMW Isar",
+    "domain":"isarbmw.com.br",
+    "internal_link": "ebd.autodromo.app/bmw-isar"
+  },
+  {
+    "name": "Grupo Pinauto",
+    "domain":"grupopinauto.com.br",
+    "internal_link": "pinauto-seminovos.autodromo.app/grupo-pinauto"
+  },
+  {
+    "name": "Grupo Endo",
+    "domain":"grupoendo.com.br",
+    "internal_link": "grupoendo.autodromo.app/grupo-endo"
+  },
+  {
+    "name": "Grupo Domani",
+    "domain":"grupodomani.com.br",
+    "internal_link": "grupodomani.autodromo.app/grupo-domani"
+  },
+  {
+    "name": "Europamotors",
+    "domain":"www.europamotors.com.br",
+    "internal_link": "europamotors.autodromo.app/europamotors"
+  },
+  {
+    "name": "Teste Cypress",
+    "domain":"",
+    "internal_link": "modelo.autodromo.app/teste-cypress"
+  },
+  {
+    "name": "Grupo Caminho",
+    "domain":"caminhoveiculos.com.br",
+    "internal_link": "caminho.autodromo.app/grupo-caminho"
+  },
+  {
+    "name": "Grupo Viamar",
+    "domain":"www.grupoviamar.com.br",
+    "internal_link": "viamar.autodromo.app/grupo-viamar"
+  },
+  {
+    "name": "Eurovia Nissan",
+    "domain":"eurovianissan.com.br",
+    "internal_link": "viasul.autodromo.app/concessionarias-nissan"
+  },
+  {
+    "name": "Eurovia Renault",
+    "domain":"eurovia.com.br",
+    "internal_link": "viasul.autodromo.app/concessionarias-renault"
+  },
+  {
+    "name": "Audicenter",
+    "domain":"audi.pgprime.com.br",
+    "internal_link": "pgprime.autodromo.app/audi"
+  },
+  {
+    "name": "Viasul Fiat",
+    "domain":"viasul.com.br",
+    "internal_link": "viasul.autodromo.app/concessionarias-fiat"
+  },
+  {
+    "name": "Grupo Raviera Motors - BMW, Motorrad e Mini",
+    "domain":"ravieramotors.com.br",
+    "internal_link": "raviera.autodromo.app/raviera-motors"
+  },
+  {
+    "name": "Grupo Raviera Ulsan - Hyundai",
+    "domain":"ulsanhyundai.com.br",
+    "internal_link": "raviera.autodromo.app/ulsan-pagina-de-grupo"
+  },
+  {
+    "name": "Viasul Jeep",
+    "domain":"viasuljeep.com.br",
+    "internal_link": "viasul.autodromo.app/concessionarias-jeep"
+  },
+  {
+    "name": "Viasul Fiat Ofertas",
+    "domain":"ofertas.viasul.com.br",
+    "internal_link": "viasul.autodromo.app/viasul-fiat-ofertas"
+  },
+  {
+    "name": "Eurovia Renault Ofertas",
+    "domain":"ofertas.eurovia.com.br",
+    "internal_link": "viasul.autodromo.app/eurovia-renault-ofertas"
+  },
+  {
+    "name": "Eurovia Nissan Ofertas",
+    "domain":"ofertas.eurovianissan.com.br",
+    "internal_link": "viasul.autodromo.app/eurovia-nissan-ofertas"
+  },
+  {
+    "name": "Viasul Jeep Ofertas",
+    "domain":"ofertas.viasuljeep.com.br",
+    "internal_link": "viasul.autodromo.app/viasul-jeep-ofertas"
+  }
+]

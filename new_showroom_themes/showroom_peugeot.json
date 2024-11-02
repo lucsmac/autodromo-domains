@@ -1,0 +1,157 @@
+[
+  {
+        "name": "La Fontaine",
+        "domain": "peugeot.lafontaineveiculos.com.br",
+        "internal_link": "la-fontaine.autodromo.app/la-fontaine"
+  },
+  {
+        "name": "Toriba",
+        "domain": "www.toribapeugeot.com.br",
+        "internal_link": "grupo-toriba.autodromo.app/toriba-peugeot"
+  },
+  {
+    "name": "Lumière",
+    "domain": "lumierepeugeot.com.br",
+    "internal_link": "grupo-lumiere.autodromo.app/lumiere-peugeot"
+  },
+  {
+    "name": "EIFFEL",
+    "domain": "www.eiffelpeugeot.com.br",
+    "internal_link": "eiffel.autodromo.app/eiffel-peugeot"
+  },
+  {
+    "name": "Cevema Peugeot",
+    "domain": "cevemapeugeot.com.br",
+    "internal_link": "cevema.autodromo.app/cevema-peugeot"
+  },
+  {
+    "name": "SAPHIR PEUGEOT",
+    "domain": "www.saphirpeugeot.com.br",
+    "internal_link": "grupoitadil.autodromo.app/saphir-peugeot"
+  },
+  {
+    "name": "CORDIAL",
+    "domain": "cordialpeugeot.com.br",
+    "internal_link": "grupo-cordial.autodromo.app/cordial-peugeot"
+  },
+  {
+    "name": "Francesa Peugeot",
+    "domain": "francesaveiculos.com.br/peugeot",
+    "internal_link": "grupo-francesa.autodromo.app/peugeot"
+  },
+  {
+    "name": "automax",
+    "domain": "www.automaxpeugeot.com.br",
+    "internal_link": "automax-citroen.autodromo.app/automax-peugeot"
+  },
+  {
+    "name": "Original Peugeot São Paulo",
+    "domain": "www.originalpeugeot.com.br/peugeot-sao-paulo",
+    "internal_link": "grupo-green.autodromo.app/peugeot-sao-paulo"
+  },
+  {
+    "name": "Andreta Peugeot",
+    "domain": "www.andretapeugeot.com.br",
+    "internal_link": "andretafiat.autodromo.app/andreta-peugeot"
+  },
+  {
+    "name": "Peugeot Grandourados ",
+    "domain": "www.peugeot.grandourados.com.br",
+    "internal_link": "grupo-grandourados.autodromo.app/grandourados-peugeot"
+  },
+  {
+    "name": "Breitkopf",
+    "domain": "peugeot.breitkopf.com.br",
+    "internal_link": "breitkopf.autodromo.app/breitkopf-1233dabf-e820-4a29-b416-6504a97718d4"
+  },
+  {
+    "name": "Dealer Peugeot DDM",
+    "domain": "",
+    "internal_link": "nefbotprod.autodromo.app/dealer-peugeot"
+  },
+  {
+    "name": "TREVISA VEÍCULOS",
+    "domain": "trevisapeugeot.com.br",
+    "internal_link": "grupotrevisa.autodromo.app/trevisa-peugeot"
+  },
+  {
+    "name": "Peugeot Saint Germain ",
+    "domain": "peugeot.psgermain.com.br",
+    "internal_link": "grupo-dijon.autodromo.app/peugeot-saint-germain"
+  },
+  {
+    "name": "DUNA",
+    "domain": "www.dunapeugeot.com.br",
+    "internal_link": "duna.autodromo.app/duna-peugeot"
+  },
+  {
+    "name": "Sena",
+    "domain": "peugeotsena.com.br",
+    "internal_link": "fiat-mvc.autodromo.app/peugeot-sena"
+  },
+  {
+    "name": "Marajó",
+    "domain": "www.peugeotmarajo.com.br",
+    "internal_link": "marajo.autodromo.app/peugeot-marajo"
+  },
+  {
+    "name": "Gama Peugeot - Aracaju",
+    "domain": "gamapeugeot.com.br/aracaju",
+    "internal_link": "grupo-gama.autodromo.app/aracaju"
+  },
+  {
+    "name": "208",
+    "domain": "",
+    "internal_link": "testes-cuidar.autodromo.app/208"
+  },
+  {
+    "name": "Showroom Peugeot- Juliana Rodrigues Teste",
+    "domain": "sitetest.com.br",
+    "internal_link": "autoforce-academy.autodromo.app/peugeot-juliana-rodrigues-teste"
+  },
+  {
+    "name": "Dealer Peugeot",
+    "domain": "",
+    "internal_link": "autoforce-academy.autodromo.app/dealer-peugeot"
+  },
+  {
+    "name": "Gama Peugeot - Maceió",
+    "domain": "gamapeugeot.com.br/maceio",
+    "internal_link": "grupo-gama.autodromo.app/maceio"
+  },
+  {
+    "name": "Citavel Peugeot",
+    "domain": "citavel.com.br/peugeot",
+    "internal_link": "grupo-monza.autodromo.app/peugeot"
+  },
+  {
+    "name": "Dealer Peugeot DDM",
+    "domain": "",
+    "internal_link": "testes.autodromo.app/autoforce-peugeot"
+  },
+  {
+    "name": "Dealer Peugeot",
+    "domain": "",
+    "internal_link": "testes-cuidar.autodromo.app/dealer-peugeot"
+  },
+  {
+    "name": "Peugeot Campo Grande",
+    "domain": "grupomonza.com.br/peugeot-monza",
+    "internal_link": "grupo-monza.autodromo.app/peugeot-monza"
+  },
+  {
+    "name": "Provence Peugeot",
+    "domain": "peugeotprovence.com.br",
+    "internal_link": "grupo-provence.autodromo.app/provence"
+  },
+  {
+    "name": "Premier",
+    "domain": "peugeotpremier.com.br",
+    "internal_link": "passion.autodromo.app/premier-peugeot"
+  },
+  {
+    "name": "Original Peugeot Maranhão",
+    "domain": "www.originalpeugeot.com.br/peugeot-maranhao",
+    "internal_link": "grupo-green.autodromo.app/peugeot-maranhao"
+  }
+]

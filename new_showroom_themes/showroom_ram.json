@@ -1,0 +1,197 @@
+[
+  {
+    "name": "Marajó",
+    "domain": "www.rammarajo.com.br",
+    "internal_link": "marajo.autodromo.app/marajo-ram"
+  },
+  {
+    "name": "Via Mondo",
+    "domain": "www.viamondoram.com.br",
+    "internal_link": "viamondo.autodromo.app/via-mondo"
+  },
+  {
+    "name": "Layout RAM",
+    "domain": "",
+    "internal_link": "autoforce-academy.autodromo.app/layout-ram"
+  },
+  {
+    "name": "Dahruj SP",
+    "domain": "ramdahruj.com.br/ram-sp",
+    "internal_link": "jeep-dahruj.autodromo.app/ram-sp"
+  },
+  {
+    "name": "McLarty Maia RAM Brasília",
+    "domain": "rammclartymaia.com.br/brasilia",
+    "internal_link": "caltabiano.autodromo.app/brasilia"
+  },
+  {
+    "name": "AutoPremium",
+    "domain": "jeepautopremium.com.br/ram",
+    "internal_link": "grupo-boaterra.autodromo.app/ram"
+  },
+  {
+    "name": "Dahruj Jundiaí",
+    "domain": "ramdahrujjundiai.com.br",
+    "internal_link": "jeep-dahruj.autodromo.app/ram-jundiai"
+  },
+  {
+    "name": "Monte Cristo",
+    "domain": "rammontecristo.com.br",
+    "internal_link": "grupo-vianorte.autodromo.app/ram-monte-cristo"
+  },
+  {
+    "name": "T-Line",
+    "domain": "tlineram.com.br",
+    "internal_link": "grupo-tline.autodromo.app/t-line-ram"
+  },
+  {
+    "name": "Raviera Vilhena",
+    "domain": "ravieraram.com.br/ram-vilhena",
+    "internal_link": "raviera.autodromo.app/ram-vilhena"
+  },
+  {
+    "name": "Raviera Ji-Paraná",
+    "domain": "ravieraram.com.br/ram-ji-parana",
+    "internal_link": "raviera.autodromo.app/ram-ji-parana"
+  },
+  {
+    "name": "AutoPilot - BYD",
+    "domain": "autopilotbyd.com.br",
+    "internal_link": "autopilot.autodromo.app/autopilot-byd"
+  },
+  {
+    "name": "Validação AER",
+    "domain": "www.acmapp.work",
+    "internal_link": "testes.autodromo.app/validacao-ram"
+  },
+  {
+    "name": "Layout RAM automação ",
+    "domain": "",
+    "internal_link": "automacao.autodromo.app/layout-ram-automacao"
+  },
+  {
+    "name": "Raviera Porto Velho",
+    "domain": "ravieraram.com.br/ram-porto-velho",
+    "internal_link": "raviera.autodromo.app/ram-porto-velho"
+  },
+  {
+    "name": "RAM",
+    "domain": "",
+    "internal_link": "autopilot.autodromo.app/ram"
+  },
+  {
+    "name": "Soma",
+    "domain": "www.somaram.com.br",
+    "internal_link": "soma-veiculos.autodromo.app/soma"
+  },
+  {
+    "name": "RAM Sunauto",
+    "domain": "ram.sunauto.com.br",
+    "internal_link": "grandouradostanguara.autodromo.app/sunauto-ram"
+  },
+  {
+    "name": "DVA",
+    "domain": "www.dvaram.com.br",
+    "internal_link": "dva.autodromo.app/dva-ram"
+  },
+  {
+    "name": "Bari",
+    "domain": "bariram.com.br",
+    "internal_link": "bari.autodromo.app/bari-ram"
+  },
+  {
+    "name": "Viasul RAM",
+    "domain": "viasulram.com.br",
+    "internal_link": "viasul.autodromo.app/via-sul-ram"
+  },
+  {
+    "name": "McLarty Maia RAM SP",
+    "domain": "rammclartymaia.com.br/saopaulo",
+    "internal_link": "caltabiano.autodromo.app/saopaulo"
+  },
+  {
+    "name": "Itália Master",
+    "domain": "",
+    "internal_link": "euroamericas.autodromo.app/italia-master-ram"
+  },
+  {
+    "name": "RAM Caminho",
+    "domain": "ramcaminho.com.br",
+    "internal_link": "caminho.autodromo.app/ram-caminho"
+  },
+  {
+    "name": "Raviera Rio Branco",
+    "domain": "ravieraram.com.br/ram-rio-branco",
+    "internal_link": "raviera.autodromo.app/ram-rio-branco"
+  },
+  {
+    "name": "Domani Prime RAM",
+    "domain": "www.domaniprimeram.com.br",
+    "internal_link": "grupodomani.autodromo.app/domani-prime-ram"
+  },
+  {
+    "name": "Grandourados",
+    "domain": "www.ram.grandourados.com.br",
+    "internal_link": "grupo-grandourados.autodromo.app/ram-grandourados"
+  },
+  {
+    "name": "Nissul Gala Ram",
+    "domain": "www.nissulgalaram.com.br",
+    "internal_link": "gruponissulgala.autodromo.app/nissul-gala-ram"
+  },
+  {
+    "name": "PG PRIME RAM",
+    "domain": "pgprime.com.br/site-ram",
+    "internal_link": "pgprime.autodromo.app/site-ram"
+  },
+  {
+    "name": "Way",
+    "domain": "ramwayoficial.com.br",
+    "internal_link": "ebd.autodromo.app/ram"
+  },
+  {
+    "name": "Samam",
+    "domain": "samamram.com.br",
+    "internal_link": "grupo-samam.autodromo.app/samam"
+  },
+  {
+    "name": "RP Franca",
+    "domain": "rpram.com.br/franca",
+    "internal_link": "grupotoniello.autodromo.app/franca"
+  },
+  {
+    "name": "RAM | Europamotors Campinas",
+    "domain": "europamotorsram.com.br/campi",
+    "internal_link": "europamotors.autodromo.app/campi"
+  },
+  {
+    "name": "RP Araraquara",
+    "domain": "rpram.com.br/rp-araraquara",
+    "internal_link": "grupotoniello.autodromo.app/rp-araraquara"
+  },
+  {
+    "name": "Europamotors São Paulo ",
+    "domain": "europamotorsram.com.br/saopaulo",
+    "internal_link": "europamotors.autodromo.app/saopaulo"
+  },
+  {
+    "name": "Enzo RAM",
+    "domain": "www.enzoram.com.br",
+    "internal_link": "grupoenzo.autodromo.app/enzo-ram"
+  },
+  {
+    "name": "Dealer RAM",
+    "domain": "",
+    "internal_link": "testes.autodromo.app/autoforce-ram"
+  },
+  {
+    "name": "USAStar",
+    "domain": "usastarram.com.br",
+    "internal_link": "euroamericas.autodromo.app/usastar-ram"
+  },
+  {
+    "name": "Autostar",
+    "domain": "autostarram.com.br",
+    "internal_link": "grupo-green.autodromo.app/autostar-ram"
+  }
+]

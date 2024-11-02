@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Dealer Fiat",
+    "domain": "",
+    "internal_link": "autoforce-academy.autodromo.app/dealer-fiat"
+  },
+  {
+    "name": "Autovia teste Monaliza",
+    "domain": "autovia-teste-monaliza",
+    "internal_link": "testes.autodromo.app/autovia-teste-monaliza"
+  },
+  {
+    "name": "Dealer Fiat",
+    "domain": "fiat.atdplatform.work",
+    "internal_link": "testes.autodromo.app/expandirfiat"
+  },
+  {
+    "name": "Dealer Fiat DDM",
+    "domain": "",
+    "internal_link": "testes.autodromo.app/autoforce-fiat"
+  }
+]

@@ -1,0 +1,117 @@
+ [
+  {
+    "name": "teste LEADS - Gustavo",
+    "domain": "",
+    "internal_link": "teste-nitro-gustavo.autodromo.app/teste-leads-gustavo"
+  },
+  {
+    "name": "Teste SLP Ativação e Retenção BMW",
+    "domain": "testeslpbmw.com",
+    "internal_link": "autoforce-academy.autodromo.app/teste-slp-ativacao-e-retencao-bmw"
+  },
+  {
+    "name": "Original BMW",
+    "domain": "www.originalbmw.com.br",
+    "internal_link": "grupo-green.autodromo.app/original-bmw"
+  },
+  {
+    "name": "MBI Motors ",
+    "domain": "mbimotors.com.br",
+    "internal_link": "mbi_motors.autodromo.app/mbi-motors"
+  },
+  {
+    "name": "Original BMW Motorrad",
+    "domain": "www.originalbmwmotorrad.com.br",
+    "internal_link": "grupo-green.autodromo.app/original-bmw-motorrad"
+  },
+  {
+    "name": "Agulhas Negras",
+    "domain": "www.bmwagulhasnegras.com.br",
+    "internal_link": "agulhasnegras.autodromo.app/bmw"
+  },
+  {
+    "name": "Autostar BMW",
+    "domain": "bmw.autostar.com.br",
+    "internal_link": "grupo-green.autodromo.app/autostar-bmw"
+  },
+  {
+    "name": "Euro Import BMW",
+    "domain": "www.euroimportbmw.com.br",
+    "internal_link": "grupo-green.autodromo.app/euro-import-bmw"
+  },
+  {
+    "name": "Euro Import BMW Motorrad",
+    "domain": "www.euroimportmotorrad.com.br",
+    "internal_link": "grupo-green.autodromo.app/euro-import-bmw-motorrad"
+  },
+  {
+    "name": "Autokraft BMW",
+    "domain": "autokraft-bmw.com.br/bmw",
+    "internal_link": "autokraft.autodromo.app/bmw"
+  },
+  {
+    "name": "McLarty Maia BMW Motorrad",
+    "domain": "bmwmotosmclartymaia.com.br",
+    "internal_link": "caltabiano.autodromo.app/bmw-motorrad"
+  },
+  {
+    "name": "Euroville Motorrad",
+    "domain": "eurovillebmw.com.br/bmw-motorrad",
+    "internal_link": "euroville.autodromo.app/bmw-motorrad"
+  },
+  {
+    "name": "Euroville BMW",
+    "domain": "eurovillebmw.com.br/bmw",
+    "internal_link": "euroville.autodromo.app/bmw"
+  },
+  {
+    "name": "Dealer Motorrad",
+    "domain": "",
+    "internal_link": "testes.autodromo.app/pg-prime"
+  },
+  {
+    "name": "BMW Euro Motors",
+    "domain": "euromotors.com.br/bmw",
+    "internal_link": "grupojcmattias.autodromo.app/bmw"
+  },
+  {
+    "name": "BMW Motorrad Euro Motors",
+    "domain": "euromotors.com.br/bmw-motorrad",
+    "internal_link": "grupojcmattias.autodromo.app/bmw-motorrad"
+  },
+  {
+    "name": "Isar Motors BMW",
+    "domain": "isarbmw.com.br/bmw",
+    "internal_link": "ebd.autodromo.app/bmw"
+  },
+  {
+    "name": "PG Prime - Motorrad",
+    "domain": "pgprime.com.br/site-bmw-motorrad",
+    "internal_link": "pgprime.autodromo.app/site-bmw-motorrad"
+  },
+  {
+    "name": "Isar Motors",
+    "domain": "isarbmw.com.br/motorrad",
+    "internal_link": "ebd.autodromo.app/motorrad"
+  },
+  {
+    "name": "BMW RN",
+    "domain": "pgprimebmw.com.br/bmw-rn",
+    "internal_link": "pgprime.autodromo.app/bmw-rn"
+  },
+  {
+    "name": "Raviera Motorrad",
+    "domain": "motorradraviera.com.br",
+    "internal_link": "raviera.autodromo.app/raviera-motorrad"
+  },
+  {
+    "name": "Raviera BMW",
+    "domain": "www.ravieramotors.com.br/bmw",
+    "internal_link": "raviera.autodromo.app/bmw"
+  },
+  {
+    "name": "Dealer BMW",
+    "domain": "testes.autoforce.com.br/autoforce-bmw",
+    "internal_link": "testes.autodromo.app/autoforce-bmw"
+  }
+]
