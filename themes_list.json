@@ -1,0 +1,6 @@
+{
+  "themes_list": {
+    "group_themes": ["portal_001_dark", "portal_001_light", "portal_002_light", "portal_consorcio", "portal_used_model_v2", "portal_used_model", "site_002_light"],
+    "new_showroom_themes": ["landingpage", "portal_assinatura", "showroom_bmw", "showroom_citroen", "showroom_fiat_v2", "showroom_fiat", "showroom_jeep_dark", "showroom_jeep_v2", "showroom_mercedes_trucks", "showroom_performance", "showroom_peugeot", "showroom_ram", "showroom"]
+  }
+}
